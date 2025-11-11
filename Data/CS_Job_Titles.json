@@ -1,0 +1,114 @@
+{
+  "domains": [
+    {
+      "name": "Software Engineering",
+      "description": "Designing, developing, testing, and maintaining software systems.",
+      "jobs": [
+        {"name": "Software Engineer"},
+        {"name": "Backend Developer"},
+        {"name": "Frontend Developer"},
+        {"name": "Full Stack Developer"},
+        {"name": "Mobile Developer"},
+        {"name": "QA Engineer"},
+        {"name": "Software Architect"}
+      ]
+    },
+    {
+      "name": "Data Science & AI",
+      "description": "Building intelligent systems using data analysis, ML, and AI techniques.",
+      "jobs": [
+        {"name": "Data Scientist"},
+        {"name": "Machine Learning Engineer"},
+        {"name": "AI Researcher"},
+        {"name": "Data Engineer"},
+        {"name": "MLOps Engineer"},
+        {"name": "Computer Vision Engineer"},
+        {"name": "NLP Engineer"}
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "description": "Protecting systems, networks, and programs from digital attacks.",
+      "jobs": [
+        {"name": "Security Analyst"},
+        {"name": "Penetration Tester"},
+        {"name": "Security Engineer"},
+        {"name": "Incident Responder"},
+        {"name": "SOC Analyst"},
+        {"name": "Cryptographer"},
+        {"name": "Cyber Threat Intelligence Analyst"}
+      ]
+    },
+    {
+      "name": "Networking & Cloud Infrastructure",
+      "description": "Building and maintaining network and cloud systems.",
+      "jobs": [
+        {"name": "Network Engineer"},
+        {"name": "Cloud Engineer"},
+        {"name": "Cloud Solutions Architect"},
+        {"name": "Network Administrator"},
+        {"name": "Infrastructure Engineer"}
+      ]
+    },
+    {
+      "name": "DevOps & SRE",
+      "description": "Automating and managing software deployment and reliability.",
+      "jobs": [
+        {"name": "DevOps Engineer"},
+        {"name": "Site Reliability Engineer"},
+        {"name": "Platform Engineer"},
+        {"name": "Build and Release Engineer"}
+      ]
+    },
+    {
+      "name": "Systems & Embedded",
+      "description": "Developing low-level software or hardware-integrated systems.",
+      "jobs": [
+        {"name": "Embedded Systems Engineer"},
+        {"name": "Firmware Engineer"},
+        {"name": "Systems Programmer"},
+        {"name": "IoT Developer"}
+      ]
+    },
+    {
+      "name": "Game Development",
+      "description": "Creating interactive entertainment and game software.",
+      "jobs": [
+        {"name": "Game Developer"},
+        {"name": "Game Designer"},
+        {"name": "3D Graphics Programmer"},
+        {"name": "Game Engine Developer"}
+      ]
+    },
+    {
+      "name": "Human–Computer Interaction / UI-UX",
+      "description": "Designing intuitive user interfaces and experiences.",
+      "jobs": [
+        {"name": "UI/UX Designer"},
+        {"name": "Interaction Designer"},
+        {"name": "Product Designer"},
+        {"name": "Usability Engineer"}
+      ]
+    },
+    {
+      "name": "Research & Academia",
+      "description": "Pursuing scientific research and teaching in computing disciplines.",
+      "jobs": [
+        {"name": "Research Scientist"},
+        {"name": "Postdoctoral Researcher"},
+        {"name": "Teaching Assistant"},
+        {"name": "Professor of Computer Science"}
+      ]
+    },
+    {
+      "name": "IT Support & Systems Administration",
+      "description": "Providing technical support and managing enterprise systems.",
+      "jobs": [
+        {"name": "IT Support Specialist"},
+        {"name": "Systems Administrator"},
+        {"name": "Helpdesk Technician"},
+        {"name": "IT Consultant"}
+      ]
+    }
+  ]
+}
