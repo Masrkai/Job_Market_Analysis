@@ -5,21 +5,55 @@
       "description": "Designing, developing, testing, and maintaining software systems.",
       "jobs": [
         {"name": "Software Engineer"},
+        {"name": "Software Developer"},
+        {"name": "Application Developer"},
+        {"name": "Programmer"},
+        {"name": "SWE"},
         {"name": "Backend Developer"},
+        {"name": "Backend Engineer"},
         {"name": "Frontend Developer"},
+        {"name": "Frontend Engineer"},
         {"name": "Full Stack Developer"},
+        {"name": "Full Stack Engineer"},
         {"name": "Mobile Developer"},
+        {"name": "iOS Developer"},
+        {"name": "Android Developer"},
+        {"name": "React Native Developer"},
+        {"name": "Flutter Developer"},
+        {"name": "Technical Program Manager"},
+        {"name": "TPM"},
+        {"name": "Program Manager - Engineering"},
         {"name": "QA Engineer"},
+        {"name": "Quality Assurance Engineer"},
+        {"name": "SDET"},
+        {"name": "Test Automation Engineer"},
+        {"name": "Software Development Engineer in Test"},
         {"name": "Software Architect"},
         {"name": "Engineering Lead"},
         {"name": "Solutions Engineer"},
+        {"name": "Solutions Architect"},
+        {"name": "Technical Solutions Architect"},
         {"name": "Software Test Automation Engineer"},
         {"name": "API Developer"},
         {"name": "Desktop Application Developer"},
+        {"name": "Web Developer"},
         {"name": "Integration Engineer"},
         {"name": "Release Manager"},
         {"name": "Performance Engineer"},
-        {"name": "Systems Analyst"}
+        {"name": "Systems Analyst"},
+        {"name": "Product Manager"},
+        {"name": "Technical Product Manager"},
+        {"name": "Software Product Manager"},
+        {"name": "Group Product Manager"},
+        {"name": "Senior Product Manager"},
+        {"name": "Engineering Manager"},
+        {"name": "Software Engineering Manager"},
+        {"name": "Tech Lead Manager"},
+        {"name": "Development Manager"},
+        {"name": "Blockchain Developer"},
+        {"name": "Smart Contract Developer"},
+        {"name": "Web3 Developer"},
+        {"name": "Solidity Developer"}
       ]
     },
     {
@@ -27,21 +61,40 @@
       "description": "Building intelligent systems using data analysis, ML, and AI techniques.",
       "jobs": [
         {"name": "Data Scientist"},
+        {"name": "Senior Data Scientist"},
+        {"name": "Lead Data Scientist"},
+        {"name": "Data Science Analyst"},
+        {"name": "Quantitative Data Scientist"},
+        {"name": "Research Scientist - Data Science"},
+        {"name": "AI Research Scientist"},
         {"name": "Machine Learning Engineer"},
         {"name": "AI Researcher"},
+        {"name": "ML Engineer"},
+        {"name": "AI Engineer"},
+        {"name": "Machine Learning Developer"},
+        {"name": "ML Developer"},
+        
         {"name": "Data Engineer"},
         {"name": "MLOps Engineer"},
         {"name": "Computer Vision Engineer"},
         {"name": "NLP Engineer"},
         {"name": "Deep Learning Engineer"},
+        {"name": "Deep Learning Engineer (specialist)"},
         {"name": "Applied Scientist"},
+        {"name": "Applied Machine Learning Engineer"},
+        {"name": "AI/ML Engineer"},
+        {"name": "Machine Learning Scientist"},
         {"name": "Data Analyst"},
         {"name": "Big Data Engineer"},
         {"name": "Generative AI Engineer"},
         {"name": "AI Product Manager"},
         {"name": "Quantitative Analyst"},
         {"name": "Bioinformatics Data Scientist"},
-        {"name": "AI Ethics Specialist"}
+        {"name": "AI Ethics Specialist"},
+        {"name": "Analytics Engineer"},
+        {"name": "Data Pipeline Engineer"},
+        {"name": "ETL Developer"},
+        {"name": "Cloud Data Engineer"}
       ]
     },
     {
@@ -51,6 +104,7 @@
         {"name": "Security Analyst"},
         {"name": "Penetration Tester"},
         {"name": "Security Engineer"},
+        {"name": "Cybersecurity Engineer"},
         {"name": "Incident Responder"},
         {"name": "SOC Analyst"},
         {"name": "Cryptographer"},
@@ -64,7 +118,9 @@
         {"name": "GRC Specialist"},
         {"name": "Application Security Engineer"},
         {"name": "Security Automation Engineer"},
-        {"name": "Cloud Security Engineer"}
+        {"name": "Cloud Security Engineer"},
+        {"name": "InfoSec Engineer"},
+        {"name": "Security Software Engineer"}
       ]
     },
     {
@@ -73,7 +129,11 @@
       "jobs": [
         {"name": "Network Engineer"},
         {"name": "Cloud Engineer"},
+        {"name": "AWS Engineer"},
+        {"name": "Azure Engineer"},
+        {"name": "GCP Engineer"},
         {"name": "Cloud Solutions Architect"},
+        {"name": "Cloud Developer"},
         {"name": "Network Administrator"},
         {"name": "Infrastructure Engineer"},
         {"name": "Cloud Administrator"},
@@ -81,7 +141,9 @@
         {"name": "Network Security Engineer"},
         {"name": "Cloud Migration Specialist"},
         {"name": "Infrastructure Architect"},
-        {"name": "Terraform Infrastructure Engineer"}
+        {"name": "Terraform Infrastructure Engineer"},
+        {"name": "Solutions Architect"},
+        {"name": "Technical Solutions Architect"}
       ]
     },
     {
@@ -90,6 +152,7 @@
       "jobs": [
         {"name": "DevOps Engineer"},
         {"name": "Site Reliability Engineer"},
+        {"name": "SRE"},
         {"name": "Platform Engineer"},
         {"name": "Build and Release Engineer"},
         {"name": "CI/CD Engineer"},
@@ -97,7 +160,9 @@
         {"name": "Observability Engineer"},
         {"name": "IaC Engineer"},
         {"name": "Release Automation Specialist"},
-        {"name": "Monitoring & Logging Engineer"}
+        {"name": "Monitoring & Logging Engineer"},
+        {"name": "Cloud Infrastructure Engineer"},
+        {"name": "Release Engineer"}
       ]
     },
     {
@@ -107,6 +172,8 @@
         {"name": "Embedded Systems Engineer"},
         {"name": "Firmware Engineer"},
         {"name": "Systems Programmer"},
+        {"name": "Systems Engineer"},
+        {"name": "Systems Software Engineer"},
         {"name": "IoT Developer"},
         {"name": "Robotics Engineer"},
         {"name": "FPGA Engineer"},
@@ -121,7 +188,7 @@
       "description": "Creating interactive entertainment and game software.",
       "jobs": [
         {"name": "Game Developer"},
-        {"name": "Game Designer"},
+        {"name": "Game Programmer"},
         {"name": "3D Graphics Programmer"},
         {"name": "Game Engine Developer"},
         {"name": "Gameplay Programmer"},
@@ -129,7 +196,9 @@
         {"name": "Level Designer"},
         {"name": "Game AI Programmer"},
         {"name": "Animation Programmer"},
-        {"name": "Shader Developer"}
+        {"name": "Shader Developer"},
+        {"name": "Unity Developer"},
+        {"name": "Unreal Engine Developer"}
       ]
     },
     {
@@ -142,11 +211,14 @@
         {"name": "Usability Engineer"},
         {"name": "UX Researcher"},
         {"name": "UI Developer"},
+        {"name": "UI Engineer"},
+        {"name": "UX Engineer"},
         {"name": "Motion Designer"},
         {"name": "Visual Designer"},
         {"name": "Product Owner"},
         {"name": "Accessibility Specialist"},
-        {"name": "Design Systems Engineer"}
+        {"name": "Design Systems Engineer"},
+        {"name": "User Interface Developer"}
       ]
     },
     {
@@ -160,7 +232,10 @@
         {"name": "Research Assistant"},
         {"name": "Research Lab Engineer"},
         {"name": "Curriculum Developer"},
-        {"name": "Industry Research Engineer"}
+        {"name": "Industry Research Engineer"},
+        {"name": "Computer Science Researcher"},
+        {"name": "NLP Researcher"},
+        {"name": "Computer Vision Researcher"}
       ]
     },
     {
@@ -168,15 +243,20 @@
       "description": "Providing technical support and managing enterprise systems.",
       "jobs": [
         {"name": "IT Support Specialist"},
-        {"name": "Systems Administrator"},
-        {"name": "Helpdesk Technician"},
+        {"name": "Technical Support Engineer"},
+        {"name": "Desktop Support Engineer"},
+        {"name": "Desktop Support Analyst"},
         {"name": "IT Consultant"},
         {"name": "Technical Support Engineer"},
         {"name": "Desktop Support Engineer"},
         {"name": "IT Operations Manager"},
         {"name": "Field Service Technician"},
         {"name": "Virtualization Administrator"},
-        {"name": "IT Asset Manager"}
+        {"name": "IT Asset Manager"},
+        {"name": "Database Administrator"},
+        {"name": "DBA"},
+        {"name": "Database Engineer"},
+        {"name": "SQL Developer"}
       ]
     }
   ]
