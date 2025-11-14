@@ -1,0 +1,149 @@
+{
+  "standardized_roles": {
+    "Software Engineer": [
+      "Software Engineer",
+      "Software Developer",
+      "Application Developer",
+      "Programmer",
+      "SWE",
+      "Backend Engineer",
+      "Frontend Engineer",
+      "Full Stack Engineer",
+      "Full Stack Developer",
+      "Web Developer",
+      "API Developer"
+    ],
+    "Machine Learning Engineer": [
+      "Machine Learning Engineer",
+      "ML Engineer",
+      "AI Engineer",
+      "Machine Learning Developer",
+      "ML Developer",
+      "Deep Learning Engineer",
+      "Applied Machine Learning Engineer",
+      "AI/ML Engineer",
+      "Machine Learning Scientist"
+    ],
+    "Data Scientist": [
+      "Data Scientist",
+      "Senior Data Scientist",
+      "Lead Data Scientist",
+      "Data Science Analyst",
+      "Quantitative Data Scientist",
+      "Research Scientist - Data Science",
+      "AI Research Scientist"
+    ],
+    "Data Engineer": [
+      "Data Engineer",
+      "Big Data Engineer",
+      "Analytics Engineer",
+      "Data Pipeline Engineer",
+      "ETL Developer",
+      "Cloud Data Engineer"
+    ],
+    "DevOps Engineer": [
+      "DevOps Engineer",
+      "Site Reliability Engineer",
+      "SRE",
+      "Platform Engineer",
+      "Cloud Infrastructure Engineer",
+      "Infrastructure Engineer",
+      "Release Engineer"
+    ],
+    "Security Engineer": [
+      "Security Engineer",
+      "Cybersecurity Engineer",
+      "Application Security Engineer",
+      "InfoSec Engineer",
+      "Security Software Engineer",
+      "Cloud Security Engineer"
+    ],
+    "Product Manager": [
+      "Product Manager",
+      "Technical Product Manager",
+      "Software Product Manager",
+      "Group Product Manager",
+      "Senior Product Manager"
+    ],
+    "Engineering Manager": [
+      "Engineering Manager",
+      "Software Engineering Manager",
+      "Tech Lead Manager",
+      "Development Manager"
+    ],
+    "Cloud Engineer": [
+      "Cloud Engineer",
+      "AWS Engineer",
+      "Azure Engineer",
+      "GCP Engineer",
+      "Cloud Solutions Architect",
+      "Cloud Developer"
+    ],
+    "Mobile Developer": [
+      "Mobile Developer",
+      "iOS Developer",
+      "Android Developer",
+      "React Native Developer",
+      "Flutter Developer"
+    ],
+    "QA Engineer": [
+      "QA Engineer",
+      "Quality Assurance Engineer",
+      "SDET",
+      "Test Automation Engineer",
+      "Software Development Engineer in Test"
+    ],
+    "Systems Engineer": [
+      "Systems Engineer",
+      "Systems Software Engineer",
+      "Embedded Systems Engineer",
+      "Firmware Engineer"
+    ],
+    "Database Administrator": [
+      "Database Administrator",
+      "DBA",
+      "Database Engineer",
+      "SQL Developer"
+    ],
+    "Technical Program Manager": [
+      "Technical Program Manager",
+      "TPM",
+      "Program Manager - Engineering"
+    ],
+    "Research Scientist": [
+      "Research Scientist",
+      "Computer Science Researcher",
+      "AI Researcher",
+      "NLP Researcher",
+      "Computer Vision Researcher"
+    ],
+    "Blockchain Developer": [
+      "Blockchain Developer",
+      "Smart Contract Developer",
+      "Web3 Developer",
+      "Solidity Developer"
+    ],
+    "UI/UX Engineer": [
+      "UI Engineer",
+      "UX Engineer",
+      "Frontend Developer",
+      "User Interface Developer"
+    ],
+    "Game Developer": [
+      "Game Developer",
+      "Game Programmer",
+      "Unity Developer",
+      "Unreal Engine Developer"
+    ],
+    "IT Support Specialist": [
+      "IT Support Specialist",
+      "Technical Support Engineer",
+      "Desktop Support Analyst"
+    ],
+    "Solutions Architect": [
+      "Solutions Architect",
+      "Technical Solutions Architect",
+      "Cloud Solutions Architect"
+    ]
+  }
+}

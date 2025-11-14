@@ -24,6 +24,12 @@ streamlit>=1.28.0
 # ===== Configuration =====
 pyyaml>=6.0
 
+# ===== text normalization =====
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.0
+
+
+
 # ===== Database (SQLite included in Python) =====
 # For PostgreSQL support (optional):
 # psycopg2-binary>=2.9.0
