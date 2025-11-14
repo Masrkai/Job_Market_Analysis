@@ -22,5 +22,6 @@
     echo "Pip path: $(which pip)"
     echo "UV will automatically detect the .venv directory"
     exec bash --rcfile <(echo "source .venv/bin/activate")
+    uv pip install -r requirements.txt
   '';
 }).env
