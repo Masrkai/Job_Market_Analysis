@@ -10,7 +10,16 @@
         {"name": "Full Stack Developer"},
         {"name": "Mobile Developer"},
         {"name": "QA Engineer"},
-        {"name": "Software Architect"}
+        {"name": "Software Architect"},
+        {"name": "Engineering Lead"},
+        {"name": "Solutions Engineer"},
+        {"name": "Software Test Automation Engineer"},
+        {"name": "API Developer"},
+        {"name": "Desktop Application Developer"},
+        {"name": "Integration Engineer"},
+        {"name": "Release Manager"},
+        {"name": "Performance Engineer"},
+        {"name": "Systems Analyst"}
       ]
     },
     {
@@ -23,7 +32,16 @@
         {"name": "Data Engineer"},
         {"name": "MLOps Engineer"},
         {"name": "Computer Vision Engineer"},
-        {"name": "NLP Engineer"}
+        {"name": "NLP Engineer"},
+        {"name": "Deep Learning Engineer"},
+        {"name": "Applied Scientist"},
+        {"name": "Data Analyst"},
+        {"name": "Big Data Engineer"},
+        {"name": "Generative AI Engineer"},
+        {"name": "AI Product Manager"},
+        {"name": "Quantitative Analyst"},
+        {"name": "Bioinformatics Data Scientist"},
+        {"name": "AI Ethics Specialist"}
       ]
     },
     {
@@ -37,6 +55,16 @@
         {"name": "SOC Analyst"},
         {"name": "Cryptographer"},
         {"name": "Cyber Threat Intelligence Analyst"}
+        {"name": "Ethical Hacker"},
+        {"name": "Red Team Specialist"},
+        {"name": "Blue Team Specialist"},
+        {"name": "Malware Analyst"},
+        {"name": "Digital Forensics Analyst"},
+        {"name": "Security Auditor"},
+        {"name": "GRC Specialist"},
+        {"name": "Application Security Engineer"},
+        {"name": "Security Automation Engineer"},
+        {"name": "Cloud Security Engineer"}
       ]
     },
     {
@@ -47,7 +75,13 @@
         {"name": "Cloud Engineer"},
         {"name": "Cloud Solutions Architect"},
         {"name": "Network Administrator"},
-        {"name": "Infrastructure Engineer"}
+        {"name": "Infrastructure Engineer"},
+        {"name": "Cloud Administrator"},
+        {"name": "Kubernetes Administrator"},
+        {"name": "Network Security Engineer"},
+        {"name": "Cloud Migration Specialist"},
+        {"name": "Infrastructure Architect"},
+        {"name": "Terraform Infrastructure Engineer"}
       ]
     },
     {
@@ -57,7 +91,13 @@
         {"name": "DevOps Engineer"},
         {"name": "Site Reliability Engineer"},
         {"name": "Platform Engineer"},
-        {"name": "Build and Release Engineer"}
+        {"name": "Build and Release Engineer"},
+        {"name": "CI/CD Engineer"},
+        {"name": "Automation Engineer"},
+        {"name": "Observability Engineer"},
+        {"name": "IaC Engineer"},
+        {"name": "Release Automation Specialist"},
+        {"name": "Monitoring & Logging Engineer"}
       ]
     },
     {
@@ -67,7 +107,13 @@
         {"name": "Embedded Systems Engineer"},
         {"name": "Firmware Engineer"},
         {"name": "Systems Programmer"},
-        {"name": "IoT Developer"}
+        {"name": "IoT Developer"},
+        {"name": "Robotics Engineer"},
+        {"name": "FPGA Engineer"},
+        {"name": "Hardware Engineer"},
+        {"name": "Real-Time Systems Developer"},
+        {"name": "ASIC/SoC Engineer"},
+        {"name": "Microcontroller Developer"}
       ]
     },
     {
@@ -77,7 +123,13 @@
         {"name": "Game Developer"},
         {"name": "Game Designer"},
         {"name": "3D Graphics Programmer"},
-        {"name": "Game Engine Developer"}
+        {"name": "Game Engine Developer"},
+        {"name": "Gameplay Programmer"},
+        {"name": "Technical Artist"},
+        {"name": "Level Designer"},
+        {"name": "Game AI Programmer"},
+        {"name": "Animation Programmer"},
+        {"name": "Shader Developer"}
       ]
     },
     {
@@ -87,7 +139,14 @@
         {"name": "UI/UX Designer"},
         {"name": "Interaction Designer"},
         {"name": "Product Designer"},
-        {"name": "Usability Engineer"}
+        {"name": "Usability Engineer"},
+        {"name": "UX Researcher"},
+        {"name": "UI Developer"},
+        {"name": "Motion Designer"},
+        {"name": "Visual Designer"},
+        {"name": "Product Owner"},
+        {"name": "Accessibility Specialist"},
+        {"name": "Design Systems Engineer"}
       ]
     },
     {
@@ -97,7 +156,11 @@
         {"name": "Research Scientist"},
         {"name": "Postdoctoral Researcher"},
         {"name": "Teaching Assistant"},
-        {"name": "Professor of Computer Science"}
+        {"name": "Professor of Computer Science"},
+        {"name": "Research Assistant"},
+        {"name": "Research Lab Engineer"},
+        {"name": "Curriculum Developer"},
+        {"name": "Industry Research Engineer"}
       ]
     },
     {
@@ -107,7 +170,13 @@
         {"name": "IT Support Specialist"},
         {"name": "Systems Administrator"},
         {"name": "Helpdesk Technician"},
-        {"name": "IT Consultant"}
+        {"name": "IT Consultant"},
+        {"name": "Technical Support Engineer"},
+        {"name": "Desktop Support Engineer"},
+        {"name": "IT Operations Manager"},
+        {"name": "Field Service Technician"},
+        {"name": "Virtualization Administrator"},
+        {"name": "IT Asset Manager"}
       ]
     }
   ]
