@@ -258,6 +258,24 @@
         {"name": "Database Engineer"},
         {"name": "SQL Developer"}
       ]
+    },
+    {
+      "name": "Quantitative Finance & Engineering",
+      "description": "Using mathematical, statistical, and computational methods to build trading systems and financial models.",
+      "jobs": [
+        {"name": "Quant Engineer"},
+        {"name": "Quantitative Researcher"},
+        {"name": "Quant Developer"},
+        {"name": "Quantitative Analyst"},
+        {"name": "Financial Engineer"},
+        {"name": "Algorithmic Trading Engineer"},
+        {"name": "High-Frequency Trading (HFT) Engineer"},
+        {"name": "Risk Modeler"},
+        {"name": "Portfolio Optimization Engineer"},
+        {"name": "Derivatives Pricing Engineer"},
+        {"name": "Quant Data Engineer"}
+      ]
     }
   ]
 }
+    
