@@ -16,7 +16,7 @@
     echo "Setting up Python virtual environment..."
     test -d .venv || python3 -m venv .venv
     source .venv/bin/activate
-    
+
     echo "Virtual environment activated at: $VIRTUAL_ENV"
     echo "Python path: $(which python)"
     echo "Pip path: $(which pip)"
