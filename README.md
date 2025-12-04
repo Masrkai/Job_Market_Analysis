@@ -19,6 +19,11 @@ the project/study is an idea lead by these maintainers:
 - @maryam-othmann5
 - @SalmANasef
 
+Tasks would be assigned and informed about completion in the [Tasks](Tasks/) Directory, as:
+
+- code of the documents in [Markdown](Tasks/Markdown/)
+- PDF readable files in [PDF](Tasks/PDF/)
+
 We all take responsibility in making this real, any inquiries should be `OPEN TO PUBLIC` more on that later when the project is completed,
 and we wish for your behaviour to be civilized, any uncivilized behaviour from harassment to burdening maintainers will result in you getting ignored or banned
 
@@ -28,7 +33,7 @@ and we wish for your behaviour to be civilized, any uncivilized behaviour from h
 - Outputs clean, structured `.csv` files (no database dependency ***this is a blessing and a curse but becuase we couldnn't decide if we needed databases for such a workflow we will go `"the manual"` route of depending on basic files***)
 - Includes error handling and screenshots on failure
 
-### 📂 File Structure
+### 📂 File Structure (needs to be updated soon)
 
    ```
    Project/
@@ -44,7 +49,9 @@ and we wish for your behaviour to be civilized, any uncivilized behaviour from h
 
 ## ⚙️ Setup
 
-1. **Environment Variables**
+1. install a chromium based brouwer, what was used by maintainer @Masrkai from the start was [brave-browser](https://github.com/brave/brave-browser) but any other chromium engine based browser would work, theoretically even gecko/firefox ones but with some modifications to the current setup for the webdriver.
+
+2. **Environment Variables**
    Set in your shell or `.env`:
    ```bash
    export LINKEDIN_EMAIL="dummy@example.com"
@@ -52,13 +59,22 @@ and we wish for your behaviour to be civilized, any uncivilized behaviour from h
    export BRAVE_PATH="/path/to/brave"  # Optional; defaults to Chrome if omitted
    ```
 
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   # Also requires Selenium + Chrome/Brave WebDriver
-   ```
+3. From here you take ***Two Routes***, `NixOS` and `Non NixOS`
 
-3. **Run**
+   - NixOS:
+
+     1. run  `nix-shell` it would install the [requirements.txt](requirements.txt) and all the things you need
+
+
+   - Non NixOS
+
+      2. **Install Dependencies**
+         ```bash
+         pip install -r requirements.txt
+         # Also requires Selenium + Chrome/Brave WebDriver
+         ```
+
+4. **Run**
    ```bash
    python src/main.py
    ```
