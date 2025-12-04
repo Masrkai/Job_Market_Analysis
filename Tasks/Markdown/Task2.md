@@ -2,6 +2,7 @@
 
 #### **Objective**
 Modify the JSON dataset to support alternative names for jobs (e.g., "SWE" as an alternative for "Software Engineer"). The goal is to:
+
 1. **Add a new field** (`alternative_names`) to jobs that have multiple names.
 2. **Ensure backward compatibility** for jobs that don’t have alternative names.
 3. **Clarify the scope**: Decide whether to apply this change to the entire dataset or only to entries with known alternative names.
@@ -46,10 +47,12 @@ Update the JSON structure to include an optional `alternative_names` field for j
 
 #### **3. Implementation Steps**
 1. **Identify Alternative Names**
+
    - Manually or programmatically identify jobs with alternative names (e.g., "SWE" for "Software Engineer").
    - Use industry standards, job postings, or team input to populate `alternative_names`.
 
 2. **Update the JSON Dataset**
+
    - For each job, add the `alternative_names` field.
    - Example:
      ```json
@@ -60,6 +63,7 @@ Update the JSON structure to include an optional `alternative_names` field for j
      ```
 
 3. **Validation**
+
    - Ensure no duplicate `name` or `alternative_names` exist within the same domain.
    - Validate that the JSON remains syntactically correct.
 
@@ -108,6 +112,7 @@ Update the JSON structure to include an optional `alternative_names` field for j
 ---
 
 #### **6. Open Questions**
+
 - Should `alternative_names` be case-sensitive? (Recommendation: Convert all to lowercase for case-insensitive matching.)
 - Should abbreviations (e.g., "SWE") be expanded in the `name` field, or kept as-is in `alternative_names`?
 - Should the dataset include regional or company-specific alternative names?
