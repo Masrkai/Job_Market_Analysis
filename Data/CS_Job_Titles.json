@@ -559,6 +559,46 @@
         {"name": "Derivatives Pricing Engineer"},
         {"name": "Quant Data Engineer"}
       ]
+    },
+    {
+      "name": "Meme Jobs",
+      "description": "Job titles or roles in tech/CS that are vague, buzzword‑heavy, self‑aggrandizing, or otherwise nonstandard. Some are widely used; others are more speculative/hype‑style.",
+      "jobs": [
+        {"name": "Growth Hacker"},
+        {"name": "Web3 Growth Hacker"},
+        {"name": "Blockchain Evangelist"},
+        {"name": "Brand Evangelist"},
+        {"name": "Digital Overlord"},
+        {"name": "Vibe Manager"},
+        {"name": "Customer Happiness Guru"},
+        {"name": "Digital Experience Curator"},
+        {"name": "Future of Work Strategist"},
+        {"name": "Tech Thought Leader"},
+        {"name": "Disruption Consultant"},
+        {"name": "Innovation Catalyst"},
+        {"name": "Innovation Evangelist"},
+        {"name": "Cloud Disruptor"},
+        {"name": "AI/ML Ninja"},
+        {"name": "Full‑Stack Unicorn"},
+        {"name": "Code Ninja"},
+        {"name": "Code Sorcerer"},
+        {"name": "Data Science Rockstar"},
+        {"name": "Software Rockstar"},
+        {"name": "DevOps Samurai"},
+        {"name": "DevOps Wizard"},
+        {"name": "Automation Sorcerer"},
+        {"name": "Metaverse Architect"},
+        {"name": "Web3 Visionary"},
+        {"name": "Crypto Evangelist"},
+        {"name": "NFT Strategist"},
+        {"name": "Tokenomics Specialist"},
+        {"name": "Experience Architect"},
+        {"name": "Chief Happiness Officer"},
+        {"name": "Chief Meme Officer"},
+        {"name": "Growth Marketing Ninja"},
+        {"name": "Creative Technologist Magician"},
+        {"name": "Customer Delight Manager"}
+      ]
     }
   ]
 }
