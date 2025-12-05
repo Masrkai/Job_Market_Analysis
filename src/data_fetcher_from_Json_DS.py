@@ -46,4 +46,3 @@ if __name__ == "__main__":
 
     except FileNotFoundError:
         print("ERROR: Could not find 'CS_Job_Titles.json'.")
-        print("Make sure it is in the same folder as this Python file.")
