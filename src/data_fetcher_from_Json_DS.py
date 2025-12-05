@@ -32,7 +32,7 @@ def extract_jobs_by_domain(json_data):
 if __name__ == "__main__":
     try:
         # Load the JSON file (must be in the same folder)
-        with open("CS_Job_Titles.json", "r", encoding="utf-8") as file:
+        with open("Data/CS_Job_Titles.json", "r", encoding="utf-8") as file:
             json_data = json.load(file)
 
         # Extract the jobs grouped by domain
