@@ -1,7 +1,3 @@
-Here’s a structured task to **review, categorize, and expand the domain categories** in your dataset, ensuring they are comprehensive, logically grouped, and aligned with industry standards.
-
----
-
 ### **Task: Review and Expand Domain Categories in Computer Science and Engineering**
 
 #### **Objective**
