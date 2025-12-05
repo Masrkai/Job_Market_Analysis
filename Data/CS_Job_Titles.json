@@ -496,7 +496,7 @@
         {"name": "Industry Research Engineer"},
         {"name": "Computer Science Researcher"},
         {"name": "NLP Researcher"},
-        {"name": "Computer Vision Researcher"}
+        {"name": "Computer Vision Researcher"},
         {"name": "Research Engineer"},
         {"name": "PhD Research Assistant"},
         {"name": "Principal Researcher"},
@@ -540,7 +540,7 @@
         {"name": "Database Administrator"},
         {"name": "DBA"},
         {"name": "Database Engineer"},
-        {"name": "SQL Developer"}
+        {"name": "SQL Developer"},
         {"name": "Systems Administrator"},
         {"name": "Enterprise Systems Engineer"},
         {"name": "IT Infrastructure Manager"}
