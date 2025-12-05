@@ -31,7 +31,7 @@
         {"name": "Software Architect"},
         {"name": "Engineering Lead"},
         {"name": "Solutions Engineer"},
-        {"name": "Solutions Architect"},
+        {"name": "Software Solutions Architect"},
         {"name": "Technical Solutions Architect"},
         {"name": "Software Test Automation Engineer"},
         {"name": "API Developer"},
@@ -87,7 +87,6 @@
         {"name": "Big Data Engineer"},
         {"name": "Generative AI Engineer"},
         {"name": "AI Product Manager"},
-        {"name": "Quantitative Analyst"},
         {"name": "Bioinformatics Data Scientist"},
         {"name": "AI Ethics Specialist"},
         {"name": "Analytics Engineer"},
@@ -496,7 +495,7 @@
         {"name": "Industry Research Engineer"},
         {"name": "Computer Science Researcher"},
         {"name": "NLP Researcher"},
-        {"name": "Computer Vision Researcher"}
+        {"name": "Computer Vision Researcher"},
         {"name": "Research Engineer"},
         {"name": "PhD Research Assistant"},
         {"name": "Principal Researcher"},
@@ -531,8 +530,6 @@
         {"name": "Desktop Support Engineer"},
         {"name": "Desktop Support Analyst"},
         {"name": "IT Consultant"},
-        {"name": "Technical Support Engineer"},
-        {"name": "Desktop Support Engineer"},
         {"name": "IT Operations Manager"},
         {"name": "Field Service Technician"},
         {"name": "Virtualization Administrator"},
@@ -540,7 +537,7 @@
         {"name": "Database Administrator"},
         {"name": "DBA"},
         {"name": "Database Engineer"},
-        {"name": "SQL Developer"}
+        {"name": "SQL Developer"},
         {"name": "Systems Administrator"},
         {"name": "Enterprise Systems Engineer"},
         {"name": "IT Infrastructure Manager"}
