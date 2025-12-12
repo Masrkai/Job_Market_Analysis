@@ -1,23 +1,14 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+import os
+import csv
+import time
+from datetime import datetime
+from urllib.parse import quote_plus
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
-import time
-import os
-import csv
-from datetime import datetime
-from urllib.parse import quote_plus
 
-
-def setup_driver():
-    """Initialize the Chrome/Brave driver with options"""
-    brave_options = Options()
-    brave_options.binary_location = os.getenv("BRAVE_PATH")
-    brave_options.add_argument("--disable-blink-features=AutomationControlled")
-    brave_options.add_argument("--start-maximized")
-    return webdriver.Chrome(options=brave_options)
+from webdriver import setup_driver
 
 
 def login(driver):
@@ -248,7 +239,7 @@ def save_to_csv(jobs_data, filename="linkedin_jobs.csv"):
 def scrape_multiple_keywords(driver, keywords, location="", max_jobs_per_keyword=10):
     """Scrape jobs for multiple keywords"""
     all_jobs_data = []
-    
+
     for keyword in keywords:
         print(f"\n{'='*60}")
         print(f"Processing keyword: {keyword}")
@@ -260,7 +251,7 @@ def scrape_multiple_keywords(driver, keywords, location="", max_jobs_per_keyword
             print(f"✗ Error scraping '{keyword}': {e}")
             driver.save_screenshot(f"error_{keyword.replace(' ', '_')}.png")
         time.sleep(3)
-    
+
     return all_jobs_data
 
 
