@@ -1,7 +1,3 @@
-Here’s a structured task to transform the `main.py` scraper, integrate the data fetcher, and organize the output in the specified folder structure:
-
----
-
 ### **Task: Refactor Scraper and Organize Output in JSON Format**
 
 #### **Objective**
