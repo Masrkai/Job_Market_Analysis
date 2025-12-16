@@ -1,0 +1,3103 @@
+{
+  "domains": [
+    {
+      "name": "Software Engineering",
+      "description": "Designing, developing, testing, and maintaining software systems.",
+      "jobs": [
+        {
+          "name": "Software Engineer",
+          "alternative_names": [
+            "SWE",
+            "Software Developer",
+            "Programmer"
+          ]
+        },
+        {
+          "name": "Software Developer",
+          "alternative_names": [
+            "Software Engineer",
+            "Application Developer"
+          ]
+        },
+        {
+          "name": "Application Developer",
+          "alternative_names": [
+            "Application Engineer"
+          ]
+        },
+        {
+          "name": "Programmer",
+          "alternative_names": [
+            "Programmer Specialist"
+          ]
+        },
+        {
+          "name": "SWE",
+          "alternative_names": [
+            "SWE Specialist"
+          ]
+        },
+        {
+          "name": "Backend Developer",
+          "alternative_names": [
+            "Backend Engineer",
+            "Server-Side Developer"
+          ]
+        },
+        {
+          "name": "Backend Engineer",
+          "alternative_names": [
+            "Backend Developer"
+          ]
+        },
+        {
+          "name": "Frontend Developer",
+          "alternative_names": [
+            "Frontend Engineer",
+            "UI Developer"
+          ]
+        },
+        {
+          "name": "Frontend Engineer",
+          "alternative_names": [
+            "Frontend Developer"
+          ]
+        },
+        {
+          "name": "Full Stack Developer",
+          "alternative_names": [
+            "Full Stack Engineer",
+            "Web Developer"
+          ]
+        },
+        {
+          "name": "Full Stack Engineer",
+          "alternative_names": [
+            "Full Stack Developer"
+          ]
+        },
+        {
+          "name": "Mobile Developer",
+          "alternative_names": [
+            "Mobile App Developer"
+          ]
+        },
+        {
+          "name": "iOS Developer",
+          "alternative_names": [
+            "iOS Engineer"
+          ]
+        },
+        {
+          "name": "Android Developer",
+          "alternative_names": [
+            "Android Engineer"
+          ]
+        },
+        {
+          "name": "React Native Developer",
+          "alternative_names": [
+            "React Native Engineer"
+          ]
+        },
+        {
+          "name": "Flutter Developer",
+          "alternative_names": [
+            "Flutter Engineer"
+          ]
+        },
+        {
+          "name": "Technical Program Manager",
+          "alternative_names": [
+            "TPM"
+          ]
+        },
+        {
+          "name": "TPM",
+          "alternative_names": [
+            "TPM Specialist"
+          ]
+        },
+        {
+          "name": "Program Manager - Engineering",
+          "alternative_names": [
+            "Program Manager - Developering"
+          ]
+        },
+        {
+          "name": "QA Engineer",
+          "alternative_names": [
+            "Quality Assurance Engineer",
+            "SDET"
+          ]
+        },
+        {
+          "name": "Quality Assurance Engineer",
+          "alternative_names": [
+            "Quality Assurance Developer"
+          ]
+        },
+        {
+          "name": "SDET",
+          "alternative_names": [
+            "Software Development Engineer in Test",
+            "QA Engineer"
+          ]
+        },
+        {
+          "name": "Test Automation Engineer",
+          "alternative_names": [
+            "Test Automation Developer"
+          ]
+        },
+        {
+          "name": "Software Development Engineer in Test",
+          "alternative_names": [
+            "Software Development Developer in Test"
+          ]
+        },
+        {
+          "name": "Software Architect",
+          "alternative_names": [
+            "Solutions Architect",
+            "System Architect"
+          ]
+        },
+        {
+          "name": "Engineering Lead",
+          "alternative_names": [
+            "Developering Lead"
+          ]
+        },
+        {
+          "name": "Solutions Engineer",
+          "alternative_names": [
+            "Solutions Developer"
+          ]
+        },
+        {
+          "name": "Software Solutions Architect",
+          "alternative_names": [
+            "Software Solutions Architect Specialist"
+          ]
+        },
+        {
+          "name": "Technical Solutions Architect",
+          "alternative_names": [
+            "Technical Solutions Architect Specialist"
+          ]
+        },
+        {
+          "name": "Software Test Automation Engineer",
+          "alternative_names": [
+            "Software Test Automation Developer"
+          ]
+        },
+        {
+          "name": "API Developer",
+          "alternative_names": [
+            "API Engineer"
+          ]
+        },
+        {
+          "name": "Desktop Application Developer",
+          "alternative_names": [
+            "Desktop Application Engineer"
+          ]
+        },
+        {
+          "name": "Web Developer",
+          "alternative_names": [
+            "Web Engineer"
+          ]
+        },
+        {
+          "name": "Integration Engineer",
+          "alternative_names": [
+            "Integration Developer"
+          ]
+        },
+        {
+          "name": "Release Manager",
+          "alternative_names": [
+            "Release Lead"
+          ]
+        },
+        {
+          "name": "Performance Engineer",
+          "alternative_names": [
+            "Performance Developer"
+          ]
+        },
+        {
+          "name": "Systems Analyst",
+          "alternative_names": [
+            "Systems Specialist"
+          ]
+        },
+        {
+          "name": "Product Manager",
+          "alternative_names": [
+            "PM",
+            "Product Owner"
+          ]
+        },
+        {
+          "name": "Technical Product Manager",
+          "alternative_names": [
+            "Technical Product Lead"
+          ]
+        },
+        {
+          "name": "Software Product Manager",
+          "alternative_names": [
+            "Software Product Lead"
+          ]
+        },
+        {
+          "name": "Group Product Manager",
+          "alternative_names": [
+            "Group Product Lead"
+          ]
+        },
+        {
+          "name": "Senior Product Manager",
+          "alternative_names": [
+            "Senior Product Lead"
+          ]
+        },
+        {
+          "name": "Engineering Manager",
+          "alternative_names": [
+            "Software Engineering Manager",
+            "Dev Manager"
+          ]
+        },
+        {
+          "name": "Software Engineering Manager",
+          "alternative_names": [
+            "Software Developering Manager"
+          ]
+        },
+        {
+          "name": "Tech Lead Manager",
+          "alternative_names": [
+            "Tech Lead Lead"
+          ]
+        },
+        {
+          "name": "Development Manager",
+          "alternative_names": [
+            "Development Lead"
+          ]
+        },
+        {
+          "name": "Blockchain Developer",
+          "alternative_names": [
+            "Blockchain Engineer"
+          ]
+        },
+        {
+          "name": "Smart Contract Developer",
+          "alternative_names": [
+            "Smart Contract Engineer"
+          ]
+        },
+        {
+          "name": "Web3 Developer",
+          "alternative_names": [
+            "Web3 Engineer"
+          ]
+        },
+        {
+          "name": "Solidity Developer",
+          "alternative_names": [
+            "Solidity Engineer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Science & AI",
+      "description": "Building intelligent systems using data analysis, ML, and AI techniques.",
+      "jobs": [
+        {
+          "name": "Data Scientist",
+          "alternative_names": [
+            "Data Science Analyst",
+            "Applied Scientist"
+          ]
+        },
+        {
+          "name": "Senior Data Scientist",
+          "alternative_names": [
+            "Senior Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Lead Data Scientist",
+          "alternative_names": [
+            "Lead Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Data Science Analyst",
+          "alternative_names": [
+            "Data Science Specialist"
+          ]
+        },
+        {
+          "name": "Quantitative Data Scientist",
+          "alternative_names": [
+            "Quantitative Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Research Scientist - Data Science",
+          "alternative_names": [
+            "Research Scientist - Data Science Specialist"
+          ]
+        },
+        {
+          "name": "AI Research Scientist",
+          "alternative_names": [
+            "AI Research Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Machine Learning Engineer",
+          "alternative_names": [
+            "ML Engineer",
+            "AI Engineer"
+          ]
+        },
+        {
+          "name": "AI Researcher",
+          "alternative_names": [
+            "AI Researcher Specialist"
+          ]
+        },
+        {
+          "name": "ML Engineer",
+          "alternative_names": [
+            "Machine Learning Engineer"
+          ]
+        },
+        {
+          "name": "AI Engineer",
+          "alternative_names": [
+            "Artificial Intelligence Engineer",
+            "ML Engineer"
+          ]
+        },
+        {
+          "name": "Machine Learning Developer",
+          "alternative_names": [
+            "Machine Learning Engineer"
+          ]
+        },
+        {
+          "name": "ML Developer",
+          "alternative_names": [
+            "ML Engineer"
+          ]
+        },
+        {
+          "name": "Data Engineer",
+          "alternative_names": [
+            "Big Data Engineer",
+            "Data Pipeline Engineer"
+          ]
+        },
+        {
+          "name": "MLOps Engineer",
+          "alternative_names": [
+            "ML Operations Engineer"
+          ]
+        },
+        {
+          "name": "Computer Vision Engineer",
+          "alternative_names": [
+            "Computer Vision Developer"
+          ]
+        },
+        {
+          "name": "NLP Engineer",
+          "alternative_names": [
+            "NLP Developer"
+          ]
+        },
+        {
+          "name": "Deep Learning Engineer",
+          "alternative_names": [
+            "Deep Learning Developer"
+          ]
+        },
+        {
+          "name": "Deep Learning Engineer (specialist)",
+          "alternative_names": [
+            "Deep Learning Developer (specialist)"
+          ]
+        },
+        {
+          "name": "Applied Scientist",
+          "alternative_names": [
+            "Applied Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Applied Machine Learning Engineer",
+          "alternative_names": [
+            "Applied Machine Learning Developer"
+          ]
+        },
+        {
+          "name": "AI/ML Engineer",
+          "alternative_names": [
+            "AI/ML Developer"
+          ]
+        },
+        {
+          "name": "Machine Learning Scientist",
+          "alternative_names": [
+            "Machine Learning Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Data Analyst",
+          "alternative_names": [
+            "Business Data Analyst",
+            "Analytics Specialist"
+          ]
+        },
+        {
+          "name": "Big Data Engineer",
+          "alternative_names": [
+            "Big Data Developer"
+          ]
+        },
+        {
+          "name": "Generative AI Engineer",
+          "alternative_names": [
+            "Generative AI Developer"
+          ]
+        },
+        {
+          "name": "AI Product Manager",
+          "alternative_names": [
+            "AI Product Lead"
+          ]
+        },
+        {
+          "name": "Bioinformatics Data Scientist",
+          "alternative_names": [
+            "Bioinformatics Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "AI Ethics Specialist",
+          "alternative_names": [
+            "AI Ethics Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Analytics Engineer",
+          "alternative_names": [
+            "Analytics Developer"
+          ]
+        },
+        {
+          "name": "Data Pipeline Engineer",
+          "alternative_names": [
+            "Data Pipeline Developer"
+          ]
+        },
+        {
+          "name": "ETL Developer",
+          "alternative_names": [
+            "ETL Engineer"
+          ]
+        },
+        {
+          "name": "Cloud Data Engineer",
+          "alternative_names": [
+            "Cloud Data Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Robotics & Automation",
+      "description": "Design and development of robotic systems and automation technologies.",
+      "jobs": [
+        {
+          "name": "Robotics Engineer",
+          "alternative_names": [
+            "Robotics Developer",
+            "Automation Engineer"
+          ]
+        },
+        {
+          "name": "Automation Specialist",
+          "alternative_names": [
+            "Automation Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Control Systems Engineer",
+          "alternative_names": [
+            "Control Systems Developer"
+          ]
+        },
+        {
+          "name": "Robotics Software Engineer",
+          "alternative_names": [
+            "Robotics Software Developer"
+          ]
+        },
+        {
+          "name": "Motion Planning Engineer",
+          "alternative_names": [
+            "Motion Planning Developer"
+          ]
+        },
+        {
+          "name": "Robotics Perception Engineer",
+          "alternative_names": [
+            "Robotics Perception Developer"
+          ]
+        },
+        {
+          "name": "Autonomous Systems Engineer",
+          "alternative_names": [
+            "Autonomous Systems Developer"
+          ]
+        },
+        {
+          "name": "Industrial Automation Engineer",
+          "alternative_names": [
+            "Industrial Automation Developer"
+          ]
+        },
+        {
+          "name": "Robot Vision Engineer",
+          "alternative_names": [
+            "Robot Vision Developer"
+          ]
+        },
+        {
+          "name": "Mechatronics Engineer",
+          "alternative_names": [
+            "Mechatronics Developer"
+          ]
+        },
+        {
+          "name": "SLAM Engineer",
+          "alternative_names": [
+            "SLAM Developer"
+          ]
+        },
+        {
+          "name": "Robotics Controls Developer",
+          "alternative_names": [
+            "Robotics Controls Engineer"
+          ]
+        },
+        {
+          "name": "Process Automation Engineer",
+          "alternative_names": [
+            "Process Automation Developer"
+          ]
+        },
+        {
+          "name": "Robotics Systems Architect",
+          "alternative_names": [
+            "Robotics Systems Architect Specialist"
+          ]
+        },
+        {
+          "name": "Manipulation Engineer",
+          "alternative_names": [
+            "Manipulation Developer"
+          ]
+        },
+        {
+          "name": "Human-Robot Interaction Engineer",
+          "alternative_names": [
+            "Human-Robot Interaction Developer"
+          ]
+        },
+        {
+          "name": "Factory Automation Engineer",
+          "alternative_names": [
+            "Factory Automation Developer"
+          ]
+        },
+        {
+          "name": "Robotic Process Automation (RPA) Developer",
+          "alternative_names": [
+            "Robotic Process Automation (RPA) Engineer"
+          ]
+        },
+        {
+          "name": "Collaborative Robotics Engineer",
+          "alternative_names": [
+            "Collaborative Robotics Developer"
+          ]
+        },
+        {
+          "name": "Drone Engineer",
+          "alternative_names": [
+            "Drone Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "description": "Protecting systems, networks, and programs from digital attacks.",
+      "jobs": [
+        {
+          "name": "Security Analyst",
+          "alternative_names": [
+            "Cybersecurity Analyst",
+            "SOC Analyst"
+          ]
+        },
+        {
+          "name": "Penetration Tester",
+          "alternative_names": [
+            "Pentester",
+            "Ethical Hacker"
+          ]
+        },
+        {
+          "name": "Security Engineer",
+          "alternative_names": [
+            "Cybersecurity Engineer",
+            "Information Security Engineer"
+          ]
+        },
+        {
+          "name": "Cybersecurity Engineer",
+          "alternative_names": [
+            "Cybersecurity Developer"
+          ]
+        },
+        {
+          "name": "Incident Responder",
+          "alternative_names": [
+            "Incident Responder Specialist"
+          ]
+        },
+        {
+          "name": "SOC Analyst",
+          "alternative_names": [
+            "Security Operations Analyst"
+          ]
+        },
+        {
+          "name": "Cryptographer",
+          "alternative_names": [
+            "Cryptographer Specialist"
+          ]
+        },
+        {
+          "name": "Cyber Threat Intelligence Analyst",
+          "alternative_names": [
+            "Cyber Threat Intelligence Specialist"
+          ]
+        },
+        {
+          "name": "Ethical Hacker",
+          "alternative_names": [
+            "Ethical Hacker Specialist"
+          ]
+        },
+        {
+          "name": "Red Team Specialist",
+          "alternative_names": [
+            "Red Team Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Blue Team Specialist",
+          "alternative_names": [
+            "Blue Team Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Malware Analyst",
+          "alternative_names": [
+            "Malware Specialist"
+          ]
+        },
+        {
+          "name": "Digital Forensics Analyst",
+          "alternative_names": [
+            "Digital Forensics Specialist"
+          ]
+        },
+        {
+          "name": "Security Auditor",
+          "alternative_names": [
+            "Security Auditor Specialist"
+          ]
+        },
+        {
+          "name": "GRC Specialist",
+          "alternative_names": [
+            "GRC Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Application Security Engineer",
+          "alternative_names": [
+            "Application Security Developer"
+          ]
+        },
+        {
+          "name": "Security Automation Engineer",
+          "alternative_names": [
+            "Security Automation Developer"
+          ]
+        },
+        {
+          "name": "Cloud Security Engineer",
+          "alternative_names": [
+            "Cloud Security Developer"
+          ]
+        },
+        {
+          "name": "InfoSec Engineer",
+          "alternative_names": [
+            "InfoSec Developer"
+          ]
+        },
+        {
+          "name": "Security Software Engineer",
+          "alternative_names": [
+            "Security Software Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bioinformatics & Computational Biology",
+      "description": "Intersection of biology, computer science, and data science for healthcare and genomics.",
+      "jobs": [
+        {
+          "name": "Bioinformatics Scientist",
+          "alternative_names": [
+            "Bioinformatics Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Computational Biologist",
+          "alternative_names": [
+            "Computational Biologist Specialist"
+          ]
+        },
+        {
+          "name": "Genomics Data Engineer",
+          "alternative_names": [
+            "Genomics Data Developer"
+          ]
+        },
+        {
+          "name": "Bioinformatics Software Developer",
+          "alternative_names": [
+            "Bioinformatics Software Engineer"
+          ]
+        },
+        {
+          "name": "Clinical Informatics Specialist",
+          "alternative_names": [
+            "Clinical Informatics Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Genomics Analyst",
+          "alternative_names": [
+            "Genomics Specialist"
+          ]
+        },
+        {
+          "name": "Structural Bioinformatics Specialist",
+          "alternative_names": [
+            "Structural Bioinformatics Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Proteomics Data Scientist",
+          "alternative_names": [
+            "Proteomics Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Systems Biology Engineer",
+          "alternative_names": [
+            "Systems Biology Developer"
+          ]
+        },
+        {
+          "name": "Biomedical Data Scientist",
+          "alternative_names": [
+            "Biomedical Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Pharmaceutical Bioinformatics Specialist",
+          "alternative_names": [
+            "Pharmaceutical Bioinformatics Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Cancer Genomics Researcher",
+          "alternative_names": [
+            "Cancer Genomics Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Metagenomics Analyst",
+          "alternative_names": [
+            "Metagenomics Specialist"
+          ]
+        },
+        {
+          "name": "Precision Medicine Engineer",
+          "alternative_names": [
+            "Precision Medicine Developer"
+          ]
+        },
+        {
+          "name": "RNA-Seq Data Analyst",
+          "alternative_names": [
+            "RNA-Seq Data Specialist"
+          ]
+        },
+        {
+          "name": "Molecular Modeling Scientist",
+          "alternative_names": [
+            "Molecular Modeling Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Next-Generation Sequencing Analyst",
+          "alternative_names": [
+            "Next-Generation Sequencing Specialist"
+          ]
+        },
+        {
+          "name": "Immunoinformatics Specialist",
+          "alternative_names": [
+            "Immunoinformatics Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Clinical Trials Data Analyst",
+          "alternative_names": [
+            "Clinical Trials Data Specialist"
+          ]
+        },
+        {
+          "name": "Biostatistician",
+          "alternative_names": [
+            "Biostatistician Specialist"
+          ]
+        },
+        {
+          "name": "Computational Pathology Engineer",
+          "alternative_names": [
+            "Computational Pathology Developer"
+          ]
+        },
+        {
+          "name": "Drug Discovery Informatics Scientist",
+          "alternative_names": [
+            "Drug Discovery Informatics Scientist Specialist"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geospatial & GIS Engineering",
+      "description": "Development of mapping, spatial data systems, and location-based technologies.",
+      "jobs": [
+        {
+          "name": "GIS Developer",
+          "alternative_names": [
+            "GIS Engineer"
+          ]
+        },
+        {
+          "name": "Geospatial Data Scientist",
+          "alternative_names": [
+            "Geospatial Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Remote Sensing Engineer",
+          "alternative_names": [
+            "Remote Sensing Developer"
+          ]
+        },
+        {
+          "name": "Spatial Data Engineer",
+          "alternative_names": [
+            "Spatial Data Developer"
+          ]
+        },
+        {
+          "name": "Location Intelligence Analyst",
+          "alternative_names": [
+            "Location Intelligence Specialist"
+          ]
+        },
+        {
+          "name": "GIS Analyst",
+          "alternative_names": [
+            "GIS Specialist"
+          ]
+        },
+        {
+          "name": "Cartographic Software Engineer",
+          "alternative_names": [
+            "Cartographic Software Developer"
+          ]
+        },
+        {
+          "name": "Satellite Data Analyst",
+          "alternative_names": [
+            "Satellite Data Specialist"
+          ]
+        },
+        {
+          "name": "Geospatial Machine Learning Engineer",
+          "alternative_names": [
+            "Geospatial Machine Learning Developer"
+          ]
+        },
+        {
+          "name": "Photogrammetry Engineer",
+          "alternative_names": [
+            "Photogrammetry Developer"
+          ]
+        },
+        {
+          "name": "LiDAR Data Analyst",
+          "alternative_names": [
+            "LiDAR Data Specialist"
+          ]
+        },
+        {
+          "name": "GIS Application Developer",
+          "alternative_names": [
+            "GIS Application Engineer"
+          ]
+        },
+        {
+          "name": "Spatial Database Administrator",
+          "alternative_names": [
+            "Spatial Database Administrator Specialist"
+          ]
+        },
+        {
+          "name": "Geospatial Solutions Architect",
+          "alternative_names": [
+            "Geospatial Solutions Architect Specialist"
+          ]
+        },
+        {
+          "name": "Urban Planning GIS Specialist",
+          "alternative_names": [
+            "Urban Planning GIS Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Environmental GIS Analyst",
+          "alternative_names": [
+            "Environmental GIS Specialist"
+          ]
+        },
+        {
+          "name": "3D Mapping Engineer",
+          "alternative_names": [
+            "3D Mapping Developer"
+          ]
+        },
+        {
+          "name": "Geospatial Web Developer",
+          "alternative_names": [
+            "Geospatial Web Engineer"
+          ]
+        },
+        {
+          "name": "Navigation Systems Engineer",
+          "alternative_names": [
+            "Navigation Systems Developer"
+          ]
+        },
+        {
+          "name": "GPS Software Developer",
+          "alternative_names": [
+            "GPS Software Engineer"
+          ]
+        },
+        {
+          "name": "Geoinformatics Specialist",
+          "alternative_names": [
+            "Geoinformatics Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Spatial Analytics Engineer",
+          "alternative_names": [
+            "Spatial Analytics Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hardware & Semiconductor Engineering",
+      "description": "Design of chips, embedded systems, and semiconductor manufacturing processes.",
+      "jobs": [
+        {
+          "name": "ASIC Engineer",
+          "alternative_names": [
+            "ASIC Developer"
+          ]
+        },
+        {
+          "name": "FPGA Engineer",
+          "alternative_names": [
+            "FPGA Developer"
+          ]
+        },
+        {
+          "name": "Semiconductor Process Engineer",
+          "alternative_names": [
+            "Semiconductor Process Developer"
+          ]
+        },
+        {
+          "name": "Hardware Design Engineer",
+          "alternative_names": [
+            "Hardware Design Developer"
+          ]
+        },
+        {
+          "name": "Chip Verification Engineer",
+          "alternative_names": [
+            "Chip Verification Developer"
+          ]
+        },
+        {
+          "name": "VLSI Design Engineer",
+          "alternative_names": [
+            "VLSI Design Developer"
+          ]
+        },
+        {
+          "name": "Digital IC Designer",
+          "alternative_names": [
+            "Digital IC Designer Specialist"
+          ]
+        },
+        {
+          "name": "Analog IC Designer",
+          "alternative_names": [
+            "Analog IC Designer Specialist"
+          ]
+        },
+        {
+          "name": "Mixed-Signal IC Designer",
+          "alternative_names": [
+            "Mixed-Signal IC Designer Specialist"
+          ]
+        },
+        {
+          "name": "RTL Design Engineer",
+          "alternative_names": [
+            "RTL Design Developer"
+          ]
+        },
+        {
+          "name": "Physical Design Engineer",
+          "alternative_names": [
+            "Physical Design Developer"
+          ]
+        },
+        {
+          "name": "DFT (Design for Test) Engineer",
+          "alternative_names": [
+            "DFT (Design for Test) Developer"
+          ]
+        },
+        {
+          "name": "Hardware Validation Engineer",
+          "alternative_names": [
+            "Hardware Validation Developer"
+          ]
+        },
+        {
+          "name": "Silicon Validation Engineer",
+          "alternative_names": [
+            "Silicon Validation Developer"
+          ]
+        },
+        {
+          "name": "PCB Design Engineer",
+          "alternative_names": [
+            "PCB Design Developer"
+          ]
+        },
+        {
+          "name": "SoC (System-on-Chip) Architect",
+          "alternative_names": [
+            "SoC (System-on-Chip) Architect Specialist"
+          ]
+        },
+        {
+          "name": "Logic Design Engineer",
+          "alternative_names": [
+            "Logic Design Developer"
+          ]
+        },
+        {
+          "name": "CAD Tool Developer",
+          "alternative_names": [
+            "CAD Tool Engineer"
+          ]
+        },
+        {
+          "name": "Chip Architecture Engineer",
+          "alternative_names": [
+            "Chip Architecture Developer"
+          ]
+        },
+        {
+          "name": "RF IC Designer",
+          "alternative_names": [
+            "RF IC Designer Specialist"
+          ]
+        },
+        {
+          "name": "Power Electronics Engineer",
+          "alternative_names": [
+            "Power Electronics Developer"
+          ]
+        },
+        {
+          "name": "EDA Software Engineer",
+          "alternative_names": [
+            "EDA Software Developer"
+          ]
+        },
+        {
+          "name": "Semiconductor Test Engineer",
+          "alternative_names": [
+            "Semiconductor Test Developer"
+          ]
+        },
+        {
+          "name": "Failure Analysis Engineer",
+          "alternative_names": [
+            "Failure Analysis Developer"
+          ]
+        },
+        {
+          "name": "Layout Design Engineer",
+          "alternative_names": [
+            "Layout Design Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Energy & Sustainability Tech",
+      "description": "Development of renewable energy systems, smart grids, and sustainable technology solutions.",
+      "jobs": [
+        {
+          "name": "Energy Systems Engineer",
+          "alternative_names": [
+            "Energy Systems Developer"
+          ]
+        },
+        {
+          "name": "Smart Grid Developer",
+          "alternative_names": [
+            "Smart Grid Engineer"
+          ]
+        },
+        {
+          "name": "Sustainability Data Analyst",
+          "alternative_names": [
+            "Sustainability Data Specialist"
+          ]
+        },
+        {
+          "name": "Renewable Energy Software Engineer",
+          "alternative_names": [
+            "Renewable Energy Software Developer"
+          ]
+        },
+        {
+          "name": "Energy Management Systems Engineer",
+          "alternative_names": [
+            "Energy Management Systems Developer"
+          ]
+        },
+        {
+          "name": "Solar Energy Systems Engineer",
+          "alternative_names": [
+            "Solar Energy Systems Developer"
+          ]
+        },
+        {
+          "name": "Wind Energy Engineer",
+          "alternative_names": [
+            "Wind Energy Developer"
+          ]
+        },
+        {
+          "name": "Battery Management Systems Engineer",
+          "alternative_names": [
+            "Battery Management Systems Developer"
+          ]
+        },
+        {
+          "name": "Microgrid Engineer",
+          "alternative_names": [
+            "Microgrid Developer"
+          ]
+        },
+        {
+          "name": "Power Systems Software Engineer",
+          "alternative_names": [
+            "Power Systems Software Developer"
+          ]
+        },
+        {
+          "name": "Energy Storage Engineer",
+          "alternative_names": [
+            "Energy Storage Developer"
+          ]
+        },
+        {
+          "name": "Carbon Tracking Software Developer",
+          "alternative_names": [
+            "Carbon Tracking Software Engineer"
+          ]
+        },
+        {
+          "name": "Grid Optimization Engineer",
+          "alternative_names": [
+            "Grid Optimization Developer"
+          ]
+        },
+        {
+          "name": "Energy Analytics Engineer",
+          "alternative_names": [
+            "Energy Analytics Developer"
+          ]
+        },
+        {
+          "name": "Building Energy Management Engineer",
+          "alternative_names": [
+            "Building Energy Management Developer"
+          ]
+        },
+        {
+          "name": "Electric Grid Modernization Engineer",
+          "alternative_names": [
+            "Electric Grid Modernization Developer"
+          ]
+        },
+        {
+          "name": "Energy IoT Developer",
+          "alternative_names": [
+            "Energy IoT Engineer"
+          ]
+        },
+        {
+          "name": "Demand Response Systems Engineer",
+          "alternative_names": [
+            "Demand Response Systems Developer"
+          ]
+        },
+        {
+          "name": "Clean Tech Software Developer",
+          "alternative_names": [
+            "Clean Tech Software Engineer"
+          ]
+        },
+        {
+          "name": "Environmental Monitoring Systems Engineer",
+          "alternative_names": [
+            "Environmental Monitoring Systems Developer"
+          ]
+        },
+        {
+          "name": "Power Electronics Software Engineer",
+          "alternative_names": [
+            "Power Electronics Software Developer"
+          ]
+        },
+        {
+          "name": "Energy Forecasting Engineer",
+          "alternative_names": [
+            "Energy Forecasting Developer"
+          ]
+        },
+        {
+          "name": "Sustainability Platform Developer",
+          "alternative_names": [
+            "Sustainability Platform Engineer"
+          ]
+        },
+        {
+          "name": "Green Building Technology Engineer",
+          "alternative_names": [
+            "Green Building Technology Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automotive & Mobility Tech",
+      "description": "Development of autonomous vehicles, electric mobility, and transportation systems.",
+      "jobs": [
+        {
+          "name": "Autonomous Vehicle Engineer",
+          "alternative_names": [
+            "Autonomous Vehicle Developer"
+          ]
+        },
+        {
+          "name": "Mobility Data Scientist",
+          "alternative_names": [
+            "Mobility Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "EV Battery Engineer",
+          "alternative_names": [
+            "EV Battery Developer"
+          ]
+        },
+        {
+          "name": "Automotive Software Engineer",
+          "alternative_names": [
+            "Automotive Software Developer"
+          ]
+        },
+        {
+          "name": "ADAS Engineer",
+          "alternative_names": [
+            "ADAS Developer"
+          ]
+        },
+        {
+          "name": "Vehicle Perception Engineer",
+          "alternative_names": [
+            "Vehicle Perception Developer"
+          ]
+        },
+        {
+          "name": "Autonomous Driving Software Engineer",
+          "alternative_names": [
+            "Autonomous Driving Software Developer"
+          ]
+        },
+        {
+          "name": "V2X (Vehicle-to-Everything) Engineer",
+          "alternative_names": [
+            "V2X (Vehicle-to-Everything) Developer"
+          ]
+        },
+        {
+          "name": "Connected Car Software Engineer",
+          "alternative_names": [
+            "Connected Car Software Developer"
+          ]
+        },
+        {
+          "name": "Automotive Embedded Systems Engineer",
+          "alternative_names": [
+            "Automotive Embedded Systems Developer"
+          ]
+        },
+        {
+          "name": "Electric Powertrain Engineer",
+          "alternative_names": [
+            "Electric Powertrain Developer"
+          ]
+        },
+        {
+          "name": "Automotive Cybersecurity Engineer",
+          "alternative_names": [
+            "Automotive Cybersecurity Developer"
+          ]
+        },
+        {
+          "name": "Vehicle Dynamics Engineer",
+          "alternative_names": [
+            "Vehicle Dynamics Developer"
+          ]
+        },
+        {
+          "name": "Sensor Fusion Engineer",
+          "alternative_names": [
+            "Sensor Fusion Developer"
+          ]
+        },
+        {
+          "name": "In-Vehicle Infotainment Developer",
+          "alternative_names": [
+            "In-Vehicle Infotainment Engineer"
+          ]
+        },
+        {
+          "name": "Fleet Management Software Engineer",
+          "alternative_names": [
+            "Fleet Management Software Developer"
+          ]
+        },
+        {
+          "name": "Ride-Sharing Platform Engineer",
+          "alternative_names": [
+            "Ride-Sharing Platform Developer"
+          ]
+        },
+        {
+          "name": "Automotive Testing Engineer",
+          "alternative_names": [
+            "Automotive Testing Developer"
+          ]
+        },
+        {
+          "name": "Vehicle Localization Engineer",
+          "alternative_names": [
+            "Vehicle Localization Developer"
+          ]
+        },
+        {
+          "name": "Automotive AI Engineer",
+          "alternative_names": [
+            "Automotive AI Developer"
+          ]
+        },
+        {
+          "name": "EV Charging Infrastructure Engineer",
+          "alternative_names": [
+            "EV Charging Infrastructure Developer"
+          ]
+        },
+        {
+          "name": "Telematics Engineer",
+          "alternative_names": [
+            "Telematics Developer"
+          ]
+        },
+        {
+          "name": "Automotive Cloud Engineer",
+          "alternative_names": [
+            "Automotive Cloud Developer"
+          ]
+        },
+        {
+          "name": "Micro-mobility Software Engineer",
+          "alternative_names": [
+            "Micro-mobility Software Developer"
+          ]
+        },
+        {
+          "name": "Transportation Systems Engineer",
+          "alternative_names": [
+            "Transportation Systems Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aerospace & Aviation Software",
+      "description": "Software and systems development for aerospace, aviation, and defense applications.",
+      "jobs": [
+        {
+          "name": "Avionics Engineer",
+          "alternative_names": [
+            "Avionics Developer"
+          ]
+        },
+        {
+          "name": "Flight Systems Developer",
+          "alternative_names": [
+            "Flight Systems Engineer"
+          ]
+        },
+        {
+          "name": "Aerospace Software Engineer",
+          "alternative_names": [
+            "Aerospace Software Developer"
+          ]
+        },
+        {
+          "name": "Satellite Systems Engineer",
+          "alternative_names": [
+            "Satellite Systems Developer"
+          ]
+        },
+        {
+          "name": "Defense Systems Engineer",
+          "alternative_names": [
+            "Defense Systems Developer"
+          ]
+        },
+        {
+          "name": "Flight Control Software Engineer",
+          "alternative_names": [
+            "Flight Control Software Developer"
+          ]
+        },
+        {
+          "name": "Spacecraft Software Engineer",
+          "alternative_names": [
+            "Spacecraft Software Developer"
+          ]
+        },
+        {
+          "name": "Mission Planning Software Engineer",
+          "alternative_names": [
+            "Mission Planning Software Developer"
+          ]
+        },
+        {
+          "name": "Radar Systems Engineer",
+          "alternative_names": [
+            "Radar Systems Developer"
+          ]
+        },
+        {
+          "name": "Avionics Test Engineer",
+          "alternative_names": [
+            "Avionics Test Developer"
+          ]
+        },
+        {
+          "name": "Ground Systems Software Engineer",
+          "alternative_names": [
+            "Ground Systems Software Developer"
+          ]
+        },
+        {
+          "name": "Flight Simulation Engineer",
+          "alternative_names": [
+            "Flight Simulation Developer"
+          ]
+        },
+        {
+          "name": "Aerospace Embedded Systems Engineer",
+          "alternative_names": [
+            "Aerospace Embedded Systems Developer"
+          ]
+        },
+        {
+          "name": "UAV (Unmanned Aerial Vehicle) Software Engineer",
+          "alternative_names": [
+            "UAV (Unmanned Aerial Vehicle) Software Developer"
+          ]
+        },
+        {
+          "name": "Guidance, Navigation & Control Engineer",
+          "alternative_names": [
+            "Guidance, Navigation & Control Developer"
+          ]
+        },
+        {
+          "name": "Space Mission Analyst",
+          "alternative_names": [
+            "Space Mission Specialist"
+          ]
+        },
+        {
+          "name": "Air Traffic Management Software Engineer",
+          "alternative_names": [
+            "Air Traffic Management Software Developer"
+          ]
+        },
+        {
+          "name": "Satellite Communications Engineer",
+          "alternative_names": [
+            "Satellite Communications Developer"
+          ]
+        },
+        {
+          "name": "Aerospace Data Analyst",
+          "alternative_names": [
+            "Aerospace Data Specialist"
+          ]
+        },
+        {
+          "name": "Propulsion Systems Software Engineer",
+          "alternative_names": [
+            "Propulsion Systems Software Developer"
+          ]
+        },
+        {
+          "name": "Aviation Safety Systems Engineer",
+          "alternative_names": [
+            "Aviation Safety Systems Developer"
+          ]
+        },
+        {
+          "name": "Defense Electronics Engineer",
+          "alternative_names": [
+            "Defense Electronics Developer"
+          ]
+        },
+        {
+          "name": "Aerospace Modeling & Simulation Engineer",
+          "alternative_names": [
+            "Aerospace Modeling & Simulation Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Legal & Compliance Tech",
+      "description": "Technology roles in legaltech, regtech, and compliance systems.",
+      "jobs": [
+        {
+          "name": "Legaltech Developer",
+          "alternative_names": [
+            "Legaltech Engineer"
+          ]
+        },
+        {
+          "name": "Compliance Engineer",
+          "alternative_names": [
+            "Compliance Developer"
+          ]
+        },
+        {
+          "name": "Regulatory Data Analyst",
+          "alternative_names": [
+            "Regulatory Data Specialist"
+          ]
+        },
+        {
+          "name": "Contract Intelligence Engineer",
+          "alternative_names": [
+            "Contract Intelligence Developer"
+          ]
+        },
+        {
+          "name": "Risk & Compliance Automation Engineer",
+          "alternative_names": [
+            "Risk & Compliance Automation Developer"
+          ]
+        },
+        {
+          "name": "RegTech Software Engineer",
+          "alternative_names": [
+            "RegTech Software Developer"
+          ]
+        },
+        {
+          "name": "Legal AI Engineer",
+          "alternative_names": [
+            "Legal AI Developer"
+          ]
+        },
+        {
+          "name": "E-Discovery Software Developer",
+          "alternative_names": [
+            "E-Discovery Software Engineer"
+          ]
+        },
+        {
+          "name": "Legal Document Automation Engineer",
+          "alternative_names": [
+            "Legal Document Automation Developer"
+          ]
+        },
+        {
+          "name": "Compliance Platform Developer",
+          "alternative_names": [
+            "Compliance Platform Engineer"
+          ]
+        },
+        {
+          "name": "Legal Analytics Engineer",
+          "alternative_names": [
+            "Legal Analytics Developer"
+          ]
+        },
+        {
+          "name": "KYC (Know Your Customer) Engineer",
+          "alternative_names": [
+            "KYC (Know Your Customer) Developer"
+          ]
+        },
+        {
+          "name": "AML (Anti-Money Laundering) Systems Developer",
+          "alternative_names": [
+            "AML (Anti-Money Laundering) Systems Engineer"
+          ]
+        },
+        {
+          "name": "Regulatory Reporting Engineer",
+          "alternative_names": [
+            "Regulatory Reporting Developer"
+          ]
+        },
+        {
+          "name": "Legal Research Platform Developer",
+          "alternative_names": [
+            "Legal Research Platform Engineer"
+          ]
+        },
+        {
+          "name": "Contract Management System Engineer",
+          "alternative_names": [
+            "Contract Management System Developer"
+          ]
+        },
+        {
+          "name": "Privacy Technology Engineer",
+          "alternative_names": [
+            "Privacy Technology Developer"
+          ]
+        },
+        {
+          "name": "GDPR Compliance Engineer",
+          "alternative_names": [
+            "GDPR Compliance Developer"
+          ]
+        },
+        {
+          "name": "Intellectual Property Software Engineer",
+          "alternative_names": [
+            "Intellectual Property Software Developer"
+          ]
+        },
+        {
+          "name": "Legal Case Management Developer",
+          "alternative_names": [
+            "Legal Case Management Engineer"
+          ]
+        },
+        {
+          "name": "Litigation Technology Specialist",
+          "alternative_names": [
+            "Litigation Technology Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Legal Workflow Automation Engineer",
+          "alternative_names": [
+            "Legal Workflow Automation Developer"
+          ]
+        },
+        {
+          "name": "Regulatory Technology Architect",
+          "alternative_names": [
+            "Regulatory Technology Architect Specialist"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Education Technology (EdTech)",
+      "description": "Development of digital learning platforms, educational software, and AI in education.",
+      "jobs": [
+        {
+          "name": "EdTech Developer",
+          "alternative_names": [
+            "EdTech Engineer"
+          ]
+        },
+        {
+          "name": "Learning Platform Engineer",
+          "alternative_names": [
+            "Learning Platform Developer"
+          ]
+        },
+        {
+          "name": "AI in Education Specialist",
+          "alternative_names": [
+            "AI in Education Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Educational Content Engineer",
+          "alternative_names": [
+            "Educational Content Developer"
+          ]
+        },
+        {
+          "name": "Learning Management Systems Developer",
+          "alternative_names": [
+            "Learning Management Systems Engineer"
+          ]
+        },
+        {
+          "name": "E-Learning Software Engineer",
+          "alternative_names": [
+            "E-Learning Software Developer"
+          ]
+        },
+        {
+          "name": "Educational Game Developer",
+          "alternative_names": [
+            "Educational Game Engineer"
+          ]
+        },
+        {
+          "name": "Adaptive Learning Engineer",
+          "alternative_names": [
+            "Adaptive Learning Developer"
+          ]
+        },
+        {
+          "name": "Online Assessment Platform Developer",
+          "alternative_names": [
+            "Online Assessment Platform Engineer"
+          ]
+        },
+        {
+          "name": "Educational Data Scientist",
+          "alternative_names": [
+            "Educational Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Virtual Classroom Platform Engineer",
+          "alternative_names": [
+            "Virtual Classroom Platform Developer"
+          ]
+        },
+        {
+          "name": "Student Information System Developer",
+          "alternative_names": [
+            "Student Information System Engineer"
+          ]
+        },
+        {
+          "name": "Learning Analytics Engineer",
+          "alternative_names": [
+            "Learning Analytics Developer"
+          ]
+        },
+        {
+          "name": "Educational Content Management Developer",
+          "alternative_names": [
+            "Educational Content Management Engineer"
+          ]
+        },
+        {
+          "name": "Interactive Learning Tools Developer",
+          "alternative_names": [
+            "Interactive Learning Tools Engineer"
+          ]
+        },
+        {
+          "name": "MOOCs Platform Engineer",
+          "alternative_names": [
+            "MOOCs Platform Developer"
+          ]
+        },
+        {
+          "name": "Educational Video Platform Developer",
+          "alternative_names": [
+            "Educational Video Platform Engineer"
+          ]
+        },
+        {
+          "name": "Language Learning App Developer",
+          "alternative_names": [
+            "Language Learning App Engineer"
+          ]
+        },
+        {
+          "name": "Education Accessibility Engineer",
+          "alternative_names": [
+            "Education Accessibility Developer"
+          ]
+        },
+        {
+          "name": "Classroom Technology Specialist",
+          "alternative_names": [
+            "Classroom Technology Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Educational AR/VR Developer",
+          "alternative_names": [
+            "Educational AR/VR Engineer"
+          ]
+        },
+        {
+          "name": "Tutoring Platform Engineer",
+          "alternative_names": [
+            "Tutoring Platform Developer"
+          ]
+        },
+        {
+          "name": "K-12 Software Developer",
+          "alternative_names": [
+            "K-12 Software Engineer"
+          ]
+        },
+        {
+          "name": "Higher Education Platform Engineer",
+          "alternative_names": [
+            "Higher Education Platform Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cloud & Network Engineering",
+      "description": "Building and maintaining network and cloud systems.",
+      "jobs": [
+        {
+          "name": "Network Engineer",
+          "alternative_names": [
+            "Network Administrator",
+            "Network Specialist"
+          ]
+        },
+        {
+          "name": "Cloud Engineer",
+          "alternative_names": [
+            "Cloud Infrastructure Engineer",
+            "Cloud Developer"
+          ]
+        },
+        {
+          "name": "AWS Engineer",
+          "alternative_names": [
+            "AWS Developer"
+          ]
+        },
+        {
+          "name": "Azure Engineer",
+          "alternative_names": [
+            "Azure Developer"
+          ]
+        },
+        {
+          "name": "GCP Engineer",
+          "alternative_names": [
+            "GCP Developer"
+          ]
+        },
+        {
+          "name": "Cloud Solutions Architect",
+          "alternative_names": [
+            "Cloud Solutions Architect Specialist"
+          ]
+        },
+        {
+          "name": "Cloud Developer",
+          "alternative_names": [
+            "Cloud Engineer"
+          ]
+        },
+        {
+          "name": "Network Administrator",
+          "alternative_names": [
+            "Network Administrator Specialist"
+          ]
+        },
+        {
+          "name": "Infrastructure Engineer",
+          "alternative_names": [
+            "Infrastructure Developer"
+          ]
+        },
+        {
+          "name": "Cloud Administrator",
+          "alternative_names": [
+            "Cloud Administrator Specialist"
+          ]
+        },
+        {
+          "name": "Kubernetes Administrator",
+          "alternative_names": [
+            "Kubernetes Administrator Specialist"
+          ]
+        },
+        {
+          "name": "Network Security Engineer",
+          "alternative_names": [
+            "Network Security Developer"
+          ]
+        },
+        {
+          "name": "Cloud Migration Specialist",
+          "alternative_names": [
+            "Cloud Migration Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Infrastructure Architect",
+          "alternative_names": [
+            "Infrastructure Architect Specialist"
+          ]
+        },
+        {
+          "name": "Terraform Infrastructure Engineer",
+          "alternative_names": [
+            "Terraform Infrastructure Developer"
+          ]
+        },
+        {
+          "name": "Solutions Architect",
+          "alternative_names": [
+            "Cloud Solutions Architect",
+            "System Architect"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DevOps & SRE",
+      "description": "Automating and managing software deployment and reliability.",
+      "jobs": [
+        {
+          "name": "DevOps Engineer",
+          "alternative_names": [
+            "SRE",
+            "Site Reliability Engineer",
+            "Platform Engineer"
+          ]
+        },
+        {
+          "name": "Site Reliability Engineer",
+          "alternative_names": [
+            "SRE",
+            "DevOps Engineer"
+          ]
+        },
+        {
+          "name": "SRE",
+          "alternative_names": [
+            "SRE Specialist"
+          ]
+        },
+        {
+          "name": "Platform Engineer",
+          "alternative_names": [
+            "Platform Developer"
+          ]
+        },
+        {
+          "name": "Build and Release Engineer",
+          "alternative_names": [
+            "Build and Release Developer"
+          ]
+        },
+        {
+          "name": "CI/CD Engineer",
+          "alternative_names": [
+            "CI/CD Developer"
+          ]
+        },
+        {
+          "name": "Automation Engineer",
+          "alternative_names": [
+            "Automation Developer"
+          ]
+        },
+        {
+          "name": "Observability Engineer",
+          "alternative_names": [
+            "Observability Developer"
+          ]
+        },
+        {
+          "name": "IaC Engineer",
+          "alternative_names": [
+            "IaC Developer"
+          ]
+        },
+        {
+          "name": "Release Automation Specialist",
+          "alternative_names": [
+            "Release Automation Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Monitoring & Logging Engineer",
+          "alternative_names": [
+            "Monitoring & Logging Developer"
+          ]
+        },
+        {
+          "name": "Cloud Infrastructure Engineer",
+          "alternative_names": [
+            "Cloud Infrastructure Developer"
+          ]
+        },
+        {
+          "name": "Release Engineer",
+          "alternative_names": [
+            "Release Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Systems & Embedded",
+      "description": "Developing low-level software or hardware-integrated systems.",
+      "jobs": [
+        {
+          "name": "Embedded Systems Engineer",
+          "alternative_names": [
+            "Embedded Engineer",
+            "Firmware Engineer"
+          ]
+        },
+        {
+          "name": "Firmware Engineer",
+          "alternative_names": [
+            "Embedded Firmware Developer"
+          ]
+        },
+        {
+          "name": "Systems Programmer",
+          "alternative_names": [
+            "Systems Programmer Specialist"
+          ]
+        },
+        {
+          "name": "Systems Engineer",
+          "alternative_names": [
+            "Systems Developer"
+          ]
+        },
+        {
+          "name": "Systems Software Engineer",
+          "alternative_names": [
+            "Systems Software Developer"
+          ]
+        },
+        {
+          "name": "IoT Developer",
+          "alternative_names": [
+            "IoT Engineer"
+          ]
+        },
+        {
+          "name": "Hardware Engineer",
+          "alternative_names": [
+            "Hardware Developer"
+          ]
+        },
+        {
+          "name": "Real-Time Systems Developer",
+          "alternative_names": [
+            "Real-Time Systems Engineer"
+          ]
+        },
+        {
+          "name": "ASIC/SoC Engineer",
+          "alternative_names": [
+            "ASIC/SoC Developer"
+          ]
+        },
+        {
+          "name": "Microcontroller Developer",
+          "alternative_names": [
+            "Microcontroller Engineer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Game Development",
+      "description": "Creating interactive entertainment and game software.",
+      "jobs": [
+        {
+          "name": "Game Developer",
+          "alternative_names": [
+            "Game Programmer",
+            "Gameplay Developer"
+          ]
+        },
+        {
+          "name": "Game Programmer",
+          "alternative_names": [
+            "Game Programmer Specialist"
+          ]
+        },
+        {
+          "name": "3D Graphics Programmer",
+          "alternative_names": [
+            "3D Graphics Programmer Specialist"
+          ]
+        },
+        {
+          "name": "Game Engine Developer",
+          "alternative_names": [
+            "Game Engine Engineer"
+          ]
+        },
+        {
+          "name": "Gameplay Programmer",
+          "alternative_names": [
+            "Gameplay Programmer Specialist"
+          ]
+        },
+        {
+          "name": "Technical Artist",
+          "alternative_names": [
+            "Technical Artist Specialist"
+          ]
+        },
+        {
+          "name": "Level Designer",
+          "alternative_names": [
+            "Level Designer Specialist"
+          ]
+        },
+        {
+          "name": "Game AI Programmer",
+          "alternative_names": [
+            "Game AI Programmer Specialist"
+          ]
+        },
+        {
+          "name": "Animation Programmer",
+          "alternative_names": [
+            "Animation Programmer Specialist"
+          ]
+        },
+        {
+          "name": "Shader Developer",
+          "alternative_names": [
+            "Shader Engineer"
+          ]
+        },
+        {
+          "name": "Unity Developer",
+          "alternative_names": [
+            "Unity Game Developer"
+          ]
+        },
+        {
+          "name": "Unreal Engine Developer",
+          "alternative_names": [
+            "Unreal Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UX/UI Design & Human-Computer Interaction",
+      "description": "Designing intuitive user interfaces and experiences.",
+      "jobs": [
+        {
+          "name": "UI/UX Designer",
+          "alternative_names": [
+            "UX Designer",
+            "Product Designer"
+          ]
+        },
+        {
+          "name": "Interaction Designer",
+          "alternative_names": [
+            "Interaction Designer Specialist"
+          ]
+        },
+        {
+          "name": "Product Designer",
+          "alternative_names": [
+            "Product Designer Specialist"
+          ]
+        },
+        {
+          "name": "Usability Engineer",
+          "alternative_names": [
+            "Usability Developer"
+          ]
+        },
+        {
+          "name": "UX Researcher",
+          "alternative_names": [
+            "User Researcher"
+          ]
+        },
+        {
+          "name": "UI Developer",
+          "alternative_names": [
+            "UI Engineer"
+          ]
+        },
+        {
+          "name": "UI Engineer",
+          "alternative_names": [
+            "UI Developer"
+          ]
+        },
+        {
+          "name": "UX Engineer",
+          "alternative_names": [
+            "UX Developer"
+          ]
+        },
+        {
+          "name": "Motion Designer",
+          "alternative_names": [
+            "Motion Designer Specialist"
+          ]
+        },
+        {
+          "name": "Visual Designer",
+          "alternative_names": [
+            "Visual Designer Specialist"
+          ]
+        },
+        {
+          "name": "Product Owner",
+          "alternative_names": [
+            "Product Owner Specialist"
+          ]
+        },
+        {
+          "name": "Accessibility Specialist",
+          "alternative_names": [
+            "Accessibility Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Design Systems Engineer",
+          "alternative_names": [
+            "Design Systems Developer"
+          ]
+        },
+        {
+          "name": "User Interface Developer",
+          "alternative_names": [
+            "User Interface Engineer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Research & Academia",
+      "description": "Pursuing scientific research and teaching in computing disciplines.",
+      "jobs": [
+        {
+          "name": "Research Scientist",
+          "alternative_names": [
+            "Research Engineer",
+            "Applied Scientist"
+          ]
+        },
+        {
+          "name": "Postdoctoral Researcher",
+          "alternative_names": [
+            "Postdoctoral Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Teaching Assistant",
+          "alternative_names": [
+            "Teaching Assistant Specialist"
+          ]
+        },
+        {
+          "name": "Professor of Computer Science",
+          "alternative_names": [
+            "Professor of Computer Science Specialist"
+          ]
+        },
+        {
+          "name": "Research Assistant",
+          "alternative_names": [
+            "Research Assistant Specialist"
+          ]
+        },
+        {
+          "name": "Research Lab Engineer",
+          "alternative_names": [
+            "Research Lab Developer"
+          ]
+        },
+        {
+          "name": "Curriculum Developer",
+          "alternative_names": [
+            "Curriculum Engineer"
+          ]
+        },
+        {
+          "name": "Industry Research Engineer",
+          "alternative_names": [
+            "Industry Research Developer"
+          ]
+        },
+        {
+          "name": "Computer Science Researcher",
+          "alternative_names": [
+            "Computer Science Researcher Specialist"
+          ]
+        },
+        {
+          "name": "NLP Researcher",
+          "alternative_names": [
+            "NLP Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Computer Vision Researcher",
+          "alternative_names": [
+            "Computer Vision Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Research Engineer",
+          "alternative_names": [
+            "Research Scientist"
+          ]
+        },
+        {
+          "name": "PhD Research Assistant",
+          "alternative_names": [
+            "PhD Research Assistant Specialist"
+          ]
+        },
+        {
+          "name": "Principal Researcher",
+          "alternative_names": [
+            "Principal Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Applied Research Scientist",
+          "alternative_names": [
+            "Applied Research Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Machine Learning Researcher",
+          "alternative_names": [
+            "Machine Learning Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Quantum Computing Researcher",
+          "alternative_names": [
+            "Quantum Computing Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Human-Computer Interaction Researcher",
+          "alternative_names": [
+            "Human-Computer Interaction Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Natural Language Processing Researcher",
+          "alternative_names": [
+            "Natural Language Processing Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Robotics Researcher",
+          "alternative_names": [
+            "Robotics Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Theoretical Computer Science Researcher",
+          "alternative_names": [
+            "Theoretical Computer Science Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Computational Theory Researcher",
+          "alternative_names": [
+            "Computational Theory Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Systems Research Engineer",
+          "alternative_names": [
+            "Systems Research Developer"
+          ]
+        },
+        {
+          "name": "Research Software Engineer",
+          "alternative_names": [
+            "Research Software Developer"
+          ]
+        },
+        {
+          "name": "Lab Manager",
+          "alternative_names": [
+            "Lab Lead"
+          ]
+        },
+        {
+          "name": "Research Data Scientist",
+          "alternative_names": [
+            "Research Data Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Visiting Researcher",
+          "alternative_names": [
+            "Visiting Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Research Associate",
+          "alternative_names": [
+            "Research Associate Specialist"
+          ]
+        },
+        {
+          "name": "Academic Technology Specialist",
+          "alternative_names": [
+            "Academic Technology Specialist Specialist"
+          ]
+        },
+        {
+          "name": "University Professor (CS/Engineering)",
+          "alternative_names": [
+            "University Professor (CS/Developering)"
+          ]
+        },
+        {
+          "name": "Adjunct Faculty",
+          "alternative_names": [
+            "Adjunct Faculty Specialist"
+          ]
+        },
+        {
+          "name": "Graduate Research Assistant",
+          "alternative_names": [
+            "Graduate Research Assistant Specialist"
+          ]
+        },
+        {
+          "name": "Research Lab Director",
+          "alternative_names": [
+            "Research Lab Director Specialist"
+          ]
+        },
+        {
+          "name": "Industry Research Scientist",
+          "alternative_names": [
+            "Industry Research Scientist Specialist"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Military & Defense Computing",
+      "description": "Applying computer science and engineering skills in military, defense, and national security environments.",
+      "jobs": [
+        {
+          "name": "Military Software Engineer",
+          "alternative_names": [
+            "Military Software Developer"
+          ]
+        },
+        {
+          "name": "Command and Control (C2) Systems Engineer",
+          "alternative_names": [
+            "Command and Control (C2) Systems Developer"
+          ]
+        },
+        {
+          "name": "Military Cybersecurity Analyst",
+          "alternative_names": [
+            "Military Cybersecurity Specialist"
+          ]
+        },
+        {
+          "name": "Cyber Warfare Engineer",
+          "alternative_names": [
+            "Cyber Warfare Developer"
+          ]
+        },
+        {
+          "name": "Cyber Operations Officer",
+          "alternative_names": [
+            "Cyber Operations Officer Specialist"
+          ]
+        },
+        {
+          "name": "Signals Intelligence (SIGINT) Analyst",
+          "alternative_names": [
+            "Signals Intelligence (SIGINT) Specialist"
+          ]
+        },
+        {
+          "name": "Electronic Warfare Engineer",
+          "alternative_names": [
+            "Electronic Warfare Developer"
+          ]
+        },
+        {
+          "name": "Military Network Engineer",
+          "alternative_names": [
+            "Military Network Developer"
+          ]
+        },
+        {
+          "name": "Secure Communications Engineer",
+          "alternative_names": [
+            "Secure Communications Developer"
+          ]
+        },
+        {
+          "name": "Cryptologic Officer",
+          "alternative_names": [
+            "Cryptologic Officer Specialist"
+          ]
+        },
+        {
+          "name": "Military AI Engineer",
+          "alternative_names": [
+            "Military AI Developer"
+          ]
+        },
+        {
+          "name": "Drone Systems Software Engineer",
+          "alternative_names": [
+            "Drone Systems Software Developer"
+          ]
+        },
+        {
+          "name": "Unmanned Systems Engineer",
+          "alternative_names": [
+            "Unmanned Systems Developer"
+          ]
+        },
+        {
+          "name": "Military Data Analyst",
+          "alternative_names": [
+            "Military Data Specialist"
+          ]
+        },
+        {
+          "name": "Intelligence Systems Developer",
+          "alternative_names": [
+            "Intelligence Systems Engineer"
+          ]
+        },
+        {
+          "name": "Battlefield Simulation Engineer",
+          "alternative_names": [
+            "Battlefield Simulation Developer"
+          ]
+        },
+        {
+          "name": "Defense Research Scientist",
+          "alternative_names": [
+            "Defense Research Scientist Specialist"
+          ]
+        },
+        {
+          "name": "Military Embedded Systems Engineer",
+          "alternative_names": [
+            "Military Embedded Systems Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Enterprise IT & Systems Administration",
+      "description": "Providing technical support and managing enterprise systems.",
+      "jobs": [
+        {
+          "name": "IT Support Specialist",
+          "alternative_names": [
+            "IT Support Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Technical Support Engineer",
+          "alternative_names": [
+            "Technical Support Developer"
+          ]
+        },
+        {
+          "name": "Desktop Support Engineer",
+          "alternative_names": [
+            "Desktop Support Developer"
+          ]
+        },
+        {
+          "name": "Desktop Support Analyst",
+          "alternative_names": [
+            "Desktop Support Specialist"
+          ]
+        },
+        {
+          "name": "IT Consultant",
+          "alternative_names": [
+            "IT Consultant Specialist"
+          ]
+        },
+        {
+          "name": "IT Operations Manager",
+          "alternative_names": [
+            "IT Operations Lead"
+          ]
+        },
+        {
+          "name": "Field Service Technician",
+          "alternative_names": [
+            "Field Service Technician Specialist"
+          ]
+        },
+        {
+          "name": "Virtualization Administrator",
+          "alternative_names": [
+            "Virtualization Administrator Specialist"
+          ]
+        },
+        {
+          "name": "IT Asset Manager",
+          "alternative_names": [
+            "IT Asset Lead"
+          ]
+        },
+        {
+          "name": "Database Administrator",
+          "alternative_names": [
+            "DBA",
+            "Database Engineer"
+          ]
+        },
+        {
+          "name": "DBA",
+          "alternative_names": [
+            "DBA Specialist"
+          ]
+        },
+        {
+          "name": "Database Engineer",
+          "alternative_names": [
+            "Database Developer"
+          ]
+        },
+        {
+          "name": "SQL Developer",
+          "alternative_names": [
+            "SQL Engineer"
+          ]
+        },
+        {
+          "name": "Systems Administrator",
+          "alternative_names": [
+            "SysAdmin",
+            "IT Systems Administrator"
+          ]
+        },
+        {
+          "name": "Enterprise Systems Engineer",
+          "alternative_names": [
+            "Enterprise Systems Developer"
+          ]
+        },
+        {
+          "name": "IT Infrastructure Manager",
+          "alternative_names": [
+            "IT Infrastructure Lead"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computational Finance & Engineering",
+      "description": "Using mathematical, statistical, and computational methods to build trading systems and financial models.",
+      "jobs": [
+        {
+          "name": "Quant Engineer",
+          "alternative_names": [
+            "Quant Developer"
+          ]
+        },
+        {
+          "name": "Quantitative Researcher",
+          "alternative_names": [
+            "Quantitative Researcher Specialist"
+          ]
+        },
+        {
+          "name": "Quant Developer",
+          "alternative_names": [
+            "Quant Engineer",
+            "Algorithmic Trading Engineer"
+          ]
+        },
+        {
+          "name": "Quantitative Analyst",
+          "alternative_names": [
+            "Quant Analyst"
+          ]
+        },
+        {
+          "name": "Financial Engineer",
+          "alternative_names": [
+            "Financial Developer"
+          ]
+        },
+        {
+          "name": "Algorithmic Trading Engineer",
+          "alternative_names": [
+            "Algorithmic Trading Developer"
+          ]
+        },
+        {
+          "name": "High-Frequency Trading (HFT) Engineer",
+          "alternative_names": [
+            "High-Frequency Trading (HFT) Developer"
+          ]
+        },
+        {
+          "name": "Risk Modeler",
+          "alternative_names": [
+            "Risk Modeler Specialist"
+          ]
+        },
+        {
+          "name": "Portfolio Optimization Engineer",
+          "alternative_names": [
+            "Portfolio Optimization Developer"
+          ]
+        },
+        {
+          "name": "Derivatives Pricing Engineer",
+          "alternative_names": [
+            "Derivatives Pricing Developer"
+          ]
+        },
+        {
+          "name": "Quant Data Engineer",
+          "alternative_names": [
+            "Quant Data Developer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meme Jobs",
+      "description": "Job titles or roles in tech/CS that are vague, buzzword‑heavy, self‑aggrandizing, or otherwise nonstandard. Some are widely used; others are more speculative/hype‑style.",
+      "jobs": [
+        {
+          "name": "Growth Hacker",
+          "alternative_names": [
+            "Growth Hacker Specialist"
+          ]
+        },
+        {
+          "name": "Web3 Growth Hacker",
+          "alternative_names": [
+            "Web3 Growth Hacker Specialist"
+          ]
+        },
+        {
+          "name": "Blockchain Evangelist",
+          "alternative_names": [
+            "Blockchain Evangelist Specialist"
+          ]
+        },
+        {
+          "name": "Brand Evangelist",
+          "alternative_names": [
+            "Brand Evangelist Specialist"
+          ]
+        },
+        {
+          "name": "Digital Overlord",
+          "alternative_names": [
+            "Digital Overlord Specialist"
+          ]
+        },
+        {
+          "name": "Vibe Manager",
+          "alternative_names": [
+            "Vibe Lead"
+          ]
+        },
+        {
+          "name": "Customer Happiness Guru",
+          "alternative_names": [
+            "Customer Happiness Guru Specialist"
+          ]
+        },
+        {
+          "name": "Digital Experience Curator",
+          "alternative_names": [
+            "Digital Experience Curator Specialist"
+          ]
+        },
+        {
+          "name": "Future of Work Strategist",
+          "alternative_names": [
+            "Future of Work Strategist Specialist"
+          ]
+        },
+        {
+          "name": "Tech Thought Leader",
+          "alternative_names": [
+            "Tech Thought Leader Specialist"
+          ]
+        },
+        {
+          "name": "Disruption Consultant",
+          "alternative_names": [
+            "Disruption Consultant Specialist"
+          ]
+        },
+        {
+          "name": "Innovation Catalyst",
+          "alternative_names": [
+            "Innovation Catalyst Specialist"
+          ]
+        },
+        {
+          "name": "Innovation Evangelist",
+          "alternative_names": [
+            "Innovation Evangelist Specialist"
+          ]
+        },
+        {
+          "name": "Cloud Disruptor",
+          "alternative_names": [
+            "Cloud Disruptor Specialist"
+          ]
+        },
+        {
+          "name": "AI/ML Ninja",
+          "alternative_names": [
+            "AI/ML Ninja Specialist"
+          ]
+        },
+        {
+          "name": "Full‑Stack Unicorn",
+          "alternative_names": [
+            "Full‑Stack Unicorn Specialist"
+          ]
+        },
+        {
+          "name": "Code Ninja",
+          "alternative_names": [
+            "Code Ninja Specialist"
+          ]
+        },
+        {
+          "name": "Code Sorcerer",
+          "alternative_names": [
+            "Code Sorcerer Specialist"
+          ]
+        },
+        {
+          "name": "Data Science Rockstar",
+          "alternative_names": [
+            "Data Science Rockstar Specialist"
+          ]
+        },
+        {
+          "name": "Software Rockstar",
+          "alternative_names": [
+            "Software Rockstar Specialist"
+          ]
+        },
+        {
+          "name": "DevOps Samurai",
+          "alternative_names": [
+            "DevOps Samurai Specialist"
+          ]
+        },
+        {
+          "name": "DevOps Wizard",
+          "alternative_names": [
+            "DevOps Wizard Specialist"
+          ]
+        },
+        {
+          "name": "Automation Sorcerer",
+          "alternative_names": [
+            "Automation Sorcerer Specialist"
+          ]
+        },
+        {
+          "name": "Metaverse Architect",
+          "alternative_names": [
+            "Metaverse Architect Specialist"
+          ]
+        },
+        {
+          "name": "Web3 Visionary",
+          "alternative_names": [
+            "Web3 Visionary Specialist"
+          ]
+        },
+        {
+          "name": "Crypto Evangelist",
+          "alternative_names": [
+            "Crypto Evangelist Specialist"
+          ]
+        },
+        {
+          "name": "NFT Strategist",
+          "alternative_names": [
+            "NFT Strategist Specialist"
+          ]
+        },
+        {
+          "name": "Tokenomics Specialist",
+          "alternative_names": [
+            "Tokenomics Specialist Specialist"
+          ]
+        },
+        {
+          "name": "Experience Architect",
+          "alternative_names": [
+            "Experience Architect Specialist"
+          ]
+        },
+        {
+          "name": "Chief Happiness Officer",
+          "alternative_names": [
+            "Chief Happiness Officer Specialist"
+          ]
+        },
+        {
+          "name": "Chief Meme Officer",
+          "alternative_names": [
+            "Chief Meme Officer Specialist"
+          ]
+        },
+        {
+          "name": "Growth Marketing Ninja",
+          "alternative_names": [
+            "Growth Marketing Ninja Specialist"
+          ]
+        },
+        {
+          "name": "Creative Technologist Magician",
+          "alternative_names": [
+            "Creative Technologist Magician Specialist"
+          ]
+        },
+        {
+          "name": "Customer Delight Manager",
+          "alternative_names": [
+            "Customer Delight Lead"
+          ]
+        }
+      ]
+    }
+  ]
+}
