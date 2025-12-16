@@ -522,6 +522,32 @@
       ]
     },
     {
+     "name": "Military & Defense Computing",
+  "description": "Applying computer science and engineering skills in military, defense, and national security environments.",
+  "jobs": [
+    {"name": "Military Software Engineer"},
+    {"name": "Defense Systems Engineer"},
+    {"name": "Command and Control (C2) Systems Engineer"},
+    {"name": "Military Cybersecurity Analyst"},
+    {"name": "Cyber Warfare Engineer"},
+    {"name": "Cyber Operations Officer"},
+    {"name": "Signals Intelligence (SIGINT) Analyst"},
+    {"name": "Electronic Warfare Engineer"},
+    {"name": "Military Network Engineer"},
+    {"name": "Secure Communications Engineer"},
+    {"name": "Cryptologic Officer"},
+    {"name": "Military AI Engineer"},
+    {"name": "Autonomous Systems Engineer"},
+    {"name": "Drone Systems Software Engineer"},
+    {"name": "Unmanned Systems Engineer"},
+    {"name": "Military Data Analyst"},
+    {"name": "Intelligence Systems Developer"},
+    {"name": "Battlefield Simulation Engineer"},
+    {"name": "Defense Research Scientist"},
+    {"name": "Military Embedded Systems Engineer"}
+  ]
+},
+    {
       "name": "Enterprise IT & Systems Administration",
       "description": "Providing technical support and managing enterprise systems.",
       "jobs": [
