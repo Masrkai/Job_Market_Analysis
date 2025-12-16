@@ -1,16 +1,12 @@
+# Warning this is a general draft and must be splitted
+
 ### **Task Applying Data Mining & NLP Concepts**
 
 ## **Project Overview**
-Build a system that scrapes LinkedIn job postings and applies data mining and natural language processing techniques to extract meaningful insights about the job market, skills demand, and job categorization.
+Build a system that applies data mining and natural language processing techniques to extract meaningful insights about the job market, skills demand, and job categorization.
 
 ---
 
-## **Data Collection & Preprocessing**
-
-### **Web Scraping & Data Extraction**
-- Use Python libraries (BeautifulSoup, Scrapy, Selenium) to scrape job postings.
-- Extract structured fields: job title, company, location, salary, experience level.
-- Extract unstructured text: job description, requirements, qualifications.
 
 ### **Text Preprocessing Pipeline**
 
@@ -211,23 +207,6 @@ Level 3: Specific Skills (TensorFlow, React, AWS)
 
 ## **Application Development**
 
-### **Recommendation Systems**
-
-```python
-Build two recommendation engines:
-
-1. Job-to-Candidate Matching:
-   - Match candidate profiles to suitable jobs.
-   - Use cosine similarity between skill vectors.
-
-2. Skill Development Path:
-   - Given current skills, recommend next skills to learn.
-   - Use association rules: "If you know Python → learn Django next".
-
-3. Career Transition Advisor:
-   - How to move from "Web Developer" to "Data Scientist".
-   - Identify skill gaps and learning path.
-```
 
 ### **Dashboard & Visualization**
 
@@ -252,7 +231,6 @@ Create interactive visualizations:
 ## **Implementation Roadmap**
 
 ### **Foundation**
-- Set up scraping infrastructure.
 - Implement preprocessing pipeline.
 - Build basic TF-IDF representations.
 
@@ -266,11 +244,6 @@ Create interactive visualizations:
 - Build recommendation systems.
 - Create visualization dashboards.
 
-### **Integration & Deployment**
-- Combine all components into a unified system.
-- Optimize performance for large datasets.
-- Deploy as a web application/API.
-
 ---
 
 ## **Key Metrics to Track**
@@ -280,12 +253,7 @@ Create interactive visualizations:
    - Text preprocessing accuracy.
    - Entity extraction precision/recall.
 
-2. **Model Performance:**
-   - Clustering silhouette scores.
-   - Pattern mining lift/confidence.
-   - Recommendation hit rate.
-
-3. **Business Insights:**
+2. **Business Insights:**
    - Skill demand trends.
    - Salary prediction accuracy.
    - Market gap identification.
@@ -301,15 +269,5 @@ Create interactive visualizations:
    - Emerging technology trends.
    - Salary benchmarks by skill/location.
 4. **Interactive Dashboard:** Web interface for exploring insights.
-5. **API Endpoints:** For integration with other systems.
 6. **Documentation:** Code documentation + methodology explanation.
 
----
-
-## **Tools & Libraries**
-
-- **Scraping:** Scrapy, BeautifulSoup, Selenium
-- **NLP:** NLTK, spaCy, Gensim, Transformers
-- **ML:** scikit-learn, PyTorch, TensorFlow
-- **Visualization:** Plotly, Dash, NetworkX
-- **Deployment:** FastAPI, Streamlit, Docker
