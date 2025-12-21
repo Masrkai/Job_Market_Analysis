@@ -2,25 +2,28 @@ import time
 import random
 import requests
 from bs4 import BeautifulSoup
+from helpers.UserAgent import generate_advanced_ua
 
 def scrape_linkedin_jobs(keywords, location, max_jobs=50):
     """
     Scrapes LinkedIn job listings using the guest API endpoint.
-    This bypasses the 'scroll-to-load' limitation.
+    Uses a different user agent for each request to avoid detection.
     """
 
-    # The 'seeMoreJobPostings' endpoint is the secret to bypassing the scroll wall
     base_url = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
-
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
-        "Accept-Language": "en-US,en;q=0.9",
-    }
 
     job_list = []
     start_index = 0
 
     while len(job_list) < max_jobs:
+        # Generate a fresh user agent for each request
+        user_agent = generate_advanced_ua()
+
+        headers = {
+            "User-Agent": user_agent,
+            "Accept-Language": "en-US,en;q=0.9",
+        }
+
         params = {
             "keywords": keywords,
             "location": location,
@@ -28,6 +31,7 @@ def scrape_linkedin_jobs(keywords, location, max_jobs=50):
         }
 
         print(f"Fetching jobs starting at index {start_index}...")
+        print(f"Using User Agent: {user_agent[:80]}...")  # Print first 80 chars
 
         try:
             response = requests.get(base_url, params=params, headers=headers, timeout=10)
@@ -65,7 +69,7 @@ def scrape_linkedin_jobs(keywords, location, max_jobs=50):
                     # Skip cards that don't match the expected structure (ads, etc)
                     continue
 
-            # Increment by 25 (LinkedIn's standard page size)
+            # Increment by 10
             start_index += 10
 
             # Be polite: wait a random amount of time to avoid detection
@@ -82,7 +86,7 @@ if __name__ == "__main__":
     KEYWORDS = "Python Developer"
     LOCATION = "United States"
 
-    results = scrape_linkedin_jobs(KEYWORDS, LOCATION, max_jobs=101)
+    results = scrape_linkedin_jobs(KEYWORDS, LOCATION, max_jobs=49)
 
     print(f"\nSuccessfully scraped {len(results)} jobs:\n")
     for i, job in enumerate(results, 1):
