@@ -31,7 +31,7 @@ def scrape_linkedin_jobs(keywords, location, max_jobs=50):
         }
 
         print(f"Fetching jobs starting at index {start_index}...")
-        print(f"Using User Agent: {user_agent[:80]}...")  # Print first 80 chars
+        print(f"Using User Agent: {user_agent}...")  # Print first 80 chars
 
         try:
             response = requests.get(base_url, params=params, headers=headers, timeout=10)
@@ -42,6 +42,7 @@ def scrape_linkedin_jobs(keywords, location, max_jobs=50):
                 break
 
             soup = BeautifulSoup(response.text, 'html.parser')
+
             # Each job is contained in a <li> tag
             cards = soup.find_all('li')
 
