@@ -87,7 +87,7 @@ if __name__ == "__main__":
     KEYWORDS = "Python Developer"
     LOCATION = "Egypt"
 
-    results = scrape_linkedin_jobs(KEYWORDS, LOCATION, max_jobs=49)
+    results = scrape_linkedin_jobs(KEYWORDS, LOCATION, max_jobs=11)
 
     print(f"\nSuccessfully scraped {len(results)} jobs:\n")
     for i, job in enumerate(results, 1):
