@@ -1,0 +1,626 @@
+{
+  "name": "Software Engineering",
+  "description": "Designing, developing, testing, and maintaining software systems.",
+  "jobs": [
+    {
+      "name": "Software Engineer",
+      "alternative_names": [
+        "software developer",
+        "application developer",
+        "programmer",
+        "swe"
+      ]
+    },
+    {
+      "name": "Backend Engineer",
+      "alternative_names": ["backend developer"]
+    },
+    {
+      "name": "Frontend Engineer",
+      "alternative_names": ["frontend developer"]
+    },
+    {
+      "name": "Full Stack Engineer",
+      "alternative_names": ["full stack developer"]
+    },
+    {
+      "name": "Mobile Developer",
+      "alternative_names": [
+        "ios developer",
+        "android developer",
+        "react native developer",
+        "flutter developer"
+      ]
+    },
+    {
+      "name": "Technical Program Manager",
+      "alternative_names": [
+        "tpm",
+        "program manager - engineering"
+      ]
+    },
+    {
+      "name": "Quality Assurance Engineer",
+      "alternative_names": [
+        "qa engineer",
+        "sdet",
+        "test automation engineer",
+        "software development engineer in test",
+        "software test automation engineer"
+      ]
+    },
+    {
+      "name": "Software Architect",
+      "alternative_names": [
+        "software solutions architect",
+        "technical solutions architect"
+      ]
+    },
+    {
+      "name": "Engineering Lead",
+      "alternative_names": []
+    },
+    {
+      "name": "Solutions Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "API Developer",
+      "alternative_names": []
+    },
+    {
+      "name": "Desktop Application Developer",
+      "alternative_names": []
+    },
+    {
+      "name": "Web Developer",
+      "alternative_names": []
+    },
+    {
+      "name": "Integration Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Release Manager",
+      "alternative_names": []
+    },
+    {
+      "name": "Performance Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Systems Analyst",
+      "alternative_names": []
+    },
+    {
+      "name": "Product Manager",
+      "alternative_names": [
+        "technical product manager",
+        "software product manager",
+        "group product manager",
+        "senior product manager"
+      ]
+    },
+    {
+      "name": "Engineering Manager",
+      "alternative_names": [
+        "software engineering manager",
+        "tech lead manager",
+        "development manager"
+      ]
+    },
+    {
+      "name": "Blockchain Developer",
+      "alternative_names": [
+        "smart contract developer",
+        "web3 developer",
+        "solidity developer"
+      ]
+    }
+  ]
+}
+
+{
+  "name": "Data Science & AI",
+  "description": "Building intelligent systems using data analysis, ML, and AI techniques.",
+  "jobs": [
+    {
+      "name": "Data Scientist",
+      "alternative_names": [
+        "senior data scientist",
+        "lead data scientist",
+        "data science analyst",
+        "quantitative data scientist",
+        "research scientist - data science"
+      ]
+    },
+    {
+      "name": "Machine Learning Engineer",
+      "alternative_names": [
+        "ml engineer",
+        "machine learning developer",
+        "ml developer",
+        "applied machine learning engineer",
+        "ai/ml engineer"
+      ]
+    },
+    {
+      "name": "AI Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "AI Research Scientist",
+      "alternative_names": ["ai researcher"]
+    },
+    {
+      "name": "Data Engineer",
+      "alternative_names": [
+        "big data engineer",
+        "cloud data engineer",
+        "data pipeline engineer",
+        "etl developer"
+      ]
+    },
+    {
+      "name": "MLOps Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Computer Vision Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "NLP Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Deep Learning Engineer",
+      "alternative_names": [
+        "deep learning engineer (specialist)"
+      ]
+    },
+    {
+      "name": "Applied Scientist",
+      "alternative_names": [
+        "machine learning scientist"
+      ]
+    },
+    {
+      "name": "Data Analyst",
+      "alternative_names": []
+    },
+    {
+      "name": "Generative AI Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "AI Product Manager",
+      "alternative_names": []
+    },
+    {
+      "name": "Bioinformatics Data Scientist",
+      "alternative_names": []
+    },
+    {
+      "name": "AI Ethics Specialist",
+      "alternative_names": []
+    },
+    {
+      "name": "Analytics Engineer",
+      "alternative_names": []
+    }
+  ]
+}
+
+
+{
+  "name": "Robotics & Automation",
+  "description": "Design and development of robotic systems and automation technologies.",
+  "jobs": [
+    {
+      "name": "Robotics Engineer",
+      "alternative_names": ["robotics software engineer"]
+    },
+    {
+      "name": "Automation Engineer",
+      "alternative_names": [
+        "automation specialist",
+        "industrial automation engineer",
+        "process automation engineer",
+        "factory automation engineer"
+      ]
+    },
+    {
+      "name": "Control Systems Engineer",
+      "alternative_names": ["robotics controls developer"]
+    },
+    {
+      "name": "Motion Planning Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Robotics Perception Engineer",
+      "alternative_names": ["robot vision engineer"]
+    },
+    {
+      "name": "Autonomous Systems Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Mechatronics Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "SLAM Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Robotics Systems Architect",
+      "alternative_names": []
+    },
+    {
+      "name": "Manipulation Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Human-Robot Interaction Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Robotic Process Automation Developer",
+      "alternative_names": ["rpa developer"]
+    },
+    {
+      "name": "Collaborative Robotics Engineer",
+      "alternative_names": ["cobot engineer"]
+    },
+    {
+      "name": "Drone Engineer",
+      "alternative_names": ["uav engineer"]
+    }
+  ]
+}
+
+{
+  "name": "Cybersecurity",
+  "description": "Protecting systems, networks, and programs from digital attacks.",
+  "jobs": [
+    {
+      "name": "Security Analyst",
+      "alternative_names": ["soc analyst"]
+    },
+    {
+      "name": "Security Engineer",
+      "alternative_names": [
+        "cybersecurity engineer",
+        "infosec engineer",
+        "security software engineer"
+      ]
+    },
+    {
+      "name": "Penetration Tester",
+      "alternative_names": ["ethical hacker"]
+    },
+    {
+      "name": "Incident Responder",
+      "alternative_names": []
+    },
+    {
+      "name": "Cryptographer",
+      "alternative_names": []
+    },
+    {
+      "name": "Cyber Threat Intelligence Analyst",
+      "alternative_names": []
+    },
+    {
+      "name": "Red Team Specialist",
+      "alternative_names": []
+    },
+    {
+      "name": "Blue Team Specialist",
+      "alternative_names": []
+    },
+    {
+      "name": "Malware Analyst",
+      "alternative_names": []
+    },
+    {
+      "name": "Digital Forensics Analyst",
+      "alternative_names": []
+    },
+    {
+      "name": "Security Auditor",
+      "alternative_names": []
+    },
+    {
+      "name": "GRC Specialist",
+      "alternative_names": [
+        "governance risk and compliance specialist"
+      ]
+    },
+    {
+      "name": "Application Security Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Security Automation Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Cloud Security Engineer",
+      "alternative_names": []
+    }
+  ]
+}
+
+
+{
+  "name": "Bioinformatics & Computational Biology",
+  "description": "Intersection of biology, computer science, and data science for healthcare and genomics.",
+  "jobs": [
+    {
+      "name": "Bioinformatics Scientist",
+      "alternative_names": [
+        "computational biologist",
+        "pharmaceutical bioinformatics specialist"
+      ]
+    },
+    {
+      "name": "Bioinformatics Software Engineer",
+      "alternative_names": ["bioinformatics software developer"]
+    },
+    {
+      "name": "Genomics Data Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Genomics Analyst",
+      "alternative_names": [
+        "cancer genomics researcher",
+        "metagenomics analyst",
+        "next-generation sequencing analyst",
+        "rna-seq data analyst"
+      ]
+    },
+    {
+      "name": "Biomedical Data Scientist",
+      "alternative_names": ["proteomics data scientist"]
+    },
+    {
+      "name": "Clinical Informatics Specialist",
+      "alternative_names": ["clinical trials data analyst"]
+    },
+    {
+      "name": "Systems Biology Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Molecular Modeling Scientist",
+      "alternative_names": []
+    },
+    {
+      "name": "Immunoinformatics Specialist",
+      "alternative_names": []
+    },
+    {
+      "name": "Biostatistician",
+      "alternative_names": []
+    },
+    {
+      "name": "Computational Pathology Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Drug Discovery Informatics Scientist",
+      "alternative_names": []
+    },
+    {
+      "name": "Precision Medicine Engineer",
+      "alternative_names": []
+    }
+  ]
+}
+
+
+{
+  "name": "Cloud & Network Engineering",
+  "description": "Building and maintaining network and cloud systems.",
+  "jobs": [
+    {
+      "name": "Cloud Engineer",
+      "alternative_names": [
+        "aws engineer",
+        "azure engineer",
+        "gcp engineer",
+        "cloud developer"
+      ]
+    },
+    {
+      "name": "Network Engineer",
+      "alternative_names": ["network administrator"]
+    },
+    {
+      "name": "Cloud Solutions Architect",
+      "alternative_names": [
+        "solutions architect",
+        "technical solutions architect"
+      ]
+    },
+    {
+      "name": "Infrastructure Engineer",
+      "alternative_names": ["cloud infrastructure engineer"]
+    },
+    {
+      "name": "Cloud Administrator",
+      "alternative_names": []
+    },
+    {
+      "name": "Kubernetes Administrator",
+      "alternative_names": []
+    },
+    {
+      "name": "Network Security Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Cloud Migration Specialist",
+      "alternative_names": []
+    },
+    {
+      "name": "Infrastructure Architect",
+      "alternative_names": ["terraform infrastructure engineer"]
+    }
+  ]
+}
+
+
+{
+  "name": "DevOps & SRE",
+  "description": "Automating and managing software deployment and reliability.",
+  "jobs": [
+    {
+      "name": "DevOps Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Site Reliability Engineer",
+      "alternative_names": ["sre"]
+    },
+    {
+      "name": "Platform Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Build and Release Engineer",
+      "alternative_names": ["release engineer"]
+    },
+    {
+      "name": "CI/CD Engineer",
+      "alternative_names": []
+    },
+    {
+      "name": "Automation Engineer",
+      "alternative_names": ["release automation specialist"]
+    },
+    {
+      "name": "Observability Engineer",
+      "alternative_names": ["monitoring and logging engineer"]
+    },
+    {
+      "name": "Infrastructure as Code Engineer",
+      "alternative_names": ["iac engineer"]
+    }
+  ]
+}
+
+
+{
+  "name": "Enterprise IT & Systems Administration",
+  "description": "Providing technical support and managing enterprise systems.",
+  "jobs": [
+    {
+      "name": "IT Support Specialist",
+      "alternative_names": [
+        "technical support engineer",
+        "desktop support engineer",
+        "desktop support analyst"
+      ]
+    },
+    {
+      "name": "IT Consultant",
+      "alternative_names": []
+    },
+    {
+      "name": "IT Operations Manager",
+      "alternative_names": []
+    },
+    {
+      "name": "Field Service Technician",
+      "alternative_names": []
+    },
+    {
+      "name": "Virtualization Administrator",
+      "alternative_names": []
+    },
+    {
+      "name": "IT Asset Manager",
+      "alternative_names": []
+    },
+    {
+      "name": "Database Administrator",
+      "alternative_names": [
+        "dba",
+        "database engineer",
+        "sql developer"
+      ]
+    },
+    {
+      "name": "Systems Administrator",
+      "alternative_names": ["enterprise systems engineer"]
+    },
+    {
+      "name": "IT Infrastructure Manager",
+      "alternative_names": []
+    }
+  ]
+}
+
+
+{
+  "name": "Meme Jobs",
+  "description": "Nonstandard, buzzword-heavy, or hype-driven job titles in tech.",
+  "jobs": [
+    {
+      "name": "Growth Hacker",
+      "alternative_names": [
+        "web3 growth hacker",
+        "growth marketing ninja"
+      ]
+    },
+    {
+      "name": "Technology Evangelist",
+      "alternative_names": [
+        "blockchain evangelist",
+        "brand evangelist",
+        "innovation evangelist",
+        "crypto evangelist"
+      ]
+    },
+    {
+      "name": "Developer Advocate (Unofficial)",
+      "alternative_names": [
+        "code ninja",
+        "code sorcerer",
+        "devops samurai",
+        "devops wizard",
+        "automation sorcerer"
+      ]
+    },
+    {
+      "name": "Chief Happiness Officer",
+      "alternative_names": [
+        "chief meme officer",
+        "customer happiness guru",
+        "customer delight manager"
+      ]
+    },
+    {
+      "name": "Tech Thought Leader",
+      "alternative_names": [
+        "disruption consultant",
+        "innovation catalyst"
+      ]
+    },
+    {
+      "name": "Metaverse Architect",
+      "alternative_names": [
+        "web3 visionary",
+        "nft strategist",
+        "tokenomics specialist"
+      ]
+    }
+  ]
+}
+
+
