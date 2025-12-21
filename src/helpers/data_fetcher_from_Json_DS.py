@@ -26,6 +26,30 @@ def extract_jobs_by_domain(json_data):
     return jobs_by_domain
 
 
+def extract_all_job_titles(json_data):
+    """
+    Extracts ALL job titles from the entire JSON dataset into a single list.
+
+    Args:
+        json_data (dict): The JSON data containing domains and their associated jobs.
+
+    Returns:
+        list: A flat list of all job titles in the dataset.
+    """
+    all_job_titles = []
+
+    # Loop through all domain objects
+    for domain in json_data.get("domains", []):
+        jobs = domain.get("jobs", [])
+
+        # Extract job titles from each domain and add to the main list
+        for job in jobs:
+            job_title = job.get("name")
+            if job_title:  # Only add if the job title exists
+                all_job_titles.append(job_title)
+
+    return all_job_titles
+
 # ---------------------------------------------------------
 # MAIN PROGRAM
 # ---------------------------------------------------------
@@ -37,12 +61,14 @@ if __name__ == "__main__":
 
         # Extract the jobs grouped by domain
         jobs_by_domain = extract_jobs_by_domain(json_data)
+        jobs_by_titles = extract_all_job_titles(json_data)
 
         # Example output
         print("Extracted", len(jobs_by_domain), "domains.\n")
 
         print("Example: Jobs in 'Software Engineering':")
         print(jobs_by_domain.get("Software Engineering", []))
+        print(jobs_by_titles.get("Software Engineering", []))
 
     except FileNotFoundError:
         print("ERROR: Could not find 'CS_Job_Titles.json'.")
