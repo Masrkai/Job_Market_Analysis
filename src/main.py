@@ -79,7 +79,7 @@ def scrape_linkedin_jobs(keywords, location, max_jobs=50):
 
 if __name__ == "__main__":
     # Example usage
-    KEYWORDS = "Python Developer"
+    KEYWORDS = "Defense"
     LOCATION = "Egypt"
 
     results = scrape_linkedin_jobs(KEYWORDS, LOCATION, max_jobs=11)
