@@ -1,7 +1,8 @@
 The elements in source pages of each linkedin jon listing varies massively specially when I saw Egypt's listings and US listings.
 
-basically we are looking for the following element:
+basically we are looking for the following elements
 
+1 -
 ```html
     <script type="application/ld+json">
     </script>
@@ -12,6 +13,7 @@ if it's included you basically hit the jackpot everything is there in one place 
 
 some other important class is
 
+2 -
 ```html
 
     <div class="salary compensation__salary">
@@ -22,6 +24,7 @@ some other important class is
 which is basically free statistics on a gold plate
 and lastly something that always exists is
 
+3 -
 ```html
     <section class="show-more-less-html" data-max-lines="5">
         <div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5

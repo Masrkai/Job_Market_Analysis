@@ -5,11 +5,6 @@ from bs4 import BeautifulSoup
 from helpers.UserAgent import generate_advanced_ua
 
 def scrape_linkedin_jobs(keywords, location, max_jobs=50):
-    """
-    Scrapes LinkedIn job listings using the guest API endpoint.
-    Uses a different user agent for each request to avoid detection.
-    """
-
     base_url = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
 
     job_list = []
