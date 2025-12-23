@@ -1,74 +1,60 @@
 import json
-
-def extract_jobs_by_domain(json_data):
-    """
-    Extracts job titles grouped by their corresponding domains from the provided JSON data.
-
-    Args:
-        json_data (dict): The JSON data containing domains and their associated jobs.
-
-    Returns:
-        dict: A dictionary where keys are domain names and values are lists of job titles.
-    """
-    jobs_by_domain = {}
-
-    # Loop through all domain objects
-    for domain in json_data.get("domains", []):
-        domain_name = domain.get("name")
-        jobs = domain.get("jobs", [])
-
-        # Extract only job titles
-        job_titles = [job.get("name") for job in jobs if job.get("name")]
-
-        if domain_name:
-            jobs_by_domain[domain_name] = job_titles
-
-    return jobs_by_domain
+import resolve_path
 
 
-def extract_all_job_titles(json_data):
-    """
-    Extracts ALL job titles from the entire JSON dataset into a single list.
+def make_jobs_dictionary(json_file):
+    with open(json_file, "r") as file:
+        Jobs_dictionary = json.load(file)
 
-    Args:
-        json_data (dict): The JSON data containing domains and their associated jobs.
+    jobs_dict = {
+        category["name"]: [job["name"] for job in category["jobs"]]
+        for category in Jobs_dictionary
+    }
+    return jobs_dict
 
-    Returns:
-        list: A flat list of all job titles in the dataset.
-    """
-    all_job_titles = []
 
-    # Loop through all domain objects
-    for domain in json_data.get("domains", []):
-        jobs = domain.get("jobs", [])
+def make_category_list(jobs_dict):
+    categories = list(jobs_dict.keys())
+    return categories
 
-        # Extract job titles from each domain and add to the main list
-        for job in jobs:
-            job_title = job.get("name")
-            if job_title:  # Only add if the job title exists
-                all_job_titles.append(job_title)
 
-    return all_job_titles
+def make_own_category_jobs_list(jobs_dict, category, categories):
+    category_name = categories[category]
+    jobs_list = jobs_dict[category_name]
+    return jobs_list
 
-# ---------------------------------------------------------
-# MAIN PROGRAM
-# ---------------------------------------------------------
+
+def length_of(categories):
+    number = len(categories)
+    return number
+
+
+def print_List(categories):
+    print("Categories:")
+    for i, category in enumerate(categories, 1):
+        print(f"{i}. {category}")
+
+
 if __name__ == "__main__":
-    try:
-        # Load the JSON file (must be in the same folder)
-        with open("Data/CS_Job_Titles.json", "r", encoding="utf-8") as file:
-            json_data = json.load(file)
+    json_file = resolve_path.resolve_file_path("../../Data/Alternative_Names.json")
 
-        # Extract the jobs grouped by domain
-        jobs_by_domain = extract_jobs_by_domain(json_data)
-        jobs_by_titles = extract_all_job_titles(json_data)
+    jobs_dict = make_jobs_dictionary(json_file)
+    categories_list = make_category_list(jobs_dict)
 
-        # Example output
-        print("Extracted", len(jobs_by_domain), "domains.\n")
+    # 1. Usingfunction for a numbered list
+    print("\n--- Numbered Category List ---")
+    print_List(categories_list)
 
-        print("Example: Jobs in 'Software Engineering':")
-        print(jobs_by_domain.get("Software Engineering", []))
-        print(jobs_by_titles.get("Software Engineering", []))
+    # # Example of printing jobs within the first category
+    # category_jobs = make_own_category_jobs_list(jobs_dict, 0, categories_list)
 
-    except FileNotFoundError:
-        print("ERROR: Could not find 'CS_Job_Titles.json'.")
+    # Iterate through every category in your list
+    for category_name in categories_list:
+        print(f"\nJobs in {category_name}:")
+
+        # Access the list of jobs for THIS specific category from your dictionary
+        jobs_in_this_category = jobs_dict[category_name]
+
+        # Nested loop to print each job in the current category
+        for job in jobs_in_this_category:
+            print(f"  - {job}")
