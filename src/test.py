@@ -77,7 +77,7 @@ def main():
             # Define the specific CSV file path for this category
             csv_filename = f"{category_name}.csv"
             csv_path = os.path.join(category_dir, csv_filename)
-            
+
             # Ensure the file exists (optional, append_to_csv handles it)
             ensure_file(csv_path)
 
@@ -90,7 +90,7 @@ def main():
                 if results:
                     for item in results:
                         item['search_keyword'] = job
-                    
+
                     # KEY CHANGE: Save immediately after this specific job keyword finishes
                     append_to_csv(results, csv_path)
                     print(f"    Saved {len(results)} results for {job}")
