@@ -3,8 +3,8 @@ import random
 import requests
 from bs4 import BeautifulSoup
 
-from UserAgent import generate_advanced_ua
-from normalize import normalize_linkedin_url  # Import your new helper
+from helpers.UserAgent import generate_advanced_ua
+from helpers.normalize import normalize_linkedin_url  # Import your new helper
 
 
 def scrape_linkedin_jobs(keywords, location, max_jobs=0):
@@ -95,10 +95,10 @@ def scrape_linkedin_jobs(keywords, location, max_jobs=0):
 
 if __name__ == "__main__":
     # Example usage
-    KEYWORDS = "Software Engineering"
+    KEYWORDS = "Software Engineer"
     LOCATION = "Egypt"
 
-    results = scrape_linkedin_jobs(KEYWORDS, LOCATION, max_jobs=3)
+    results = scrape_linkedin_jobs(KEYWORDS, LOCATION, max_jobs=53)
 
     print(f"\nSuccessfully scraped {len(results)} jobs:\n")
     for i, job in enumerate(results, 1):
