@@ -1,91 +1,75 @@
-import time
-import random
-import requests
-from bs4 import BeautifulSoup
-from helpers.UserAgent import generate_advanced_ua
+import os
 
-def scrape_linkedin_jobs(keywords, location, max_jobs=50):
-    base_url = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+from helpers.resolve_path import resolve_file_path
+# from helpers.LinkedinAPI import scrape_linkedin_jobs
+from helpers.LinkedinAPI2 import scrape_linkedin_jobs
+from helpers.makefolder import ensure_dir, ensure_file, save_to_csv, append_to_csv
+# from helpers.normalize import normalize_linkedin_url
+from helpers.checkpointing import load_checkpoint, save_checkpoint
 
-    job_list = []
-    start_index = 0
+from helpers.data_fetcher_from_Json_DS import (
+    length_of,
+    print_List,
+    make_category_list,
+    make_jobs_dictionary,
+    make_own_category_jobs_list,
+)
 
-    while len(job_list) < max_jobs:
-        # Generate a fresh user agent for each request
-        user_agent = generate_advanced_ua()
 
-        headers = {
-            "User-Agent": user_agent,
-            "Accept-Language": "en-US,en;q=0.9",
-        }
+json_file = resolve_file_path("../Data/Alternative_Names.json")
 
-        params = {
-            "keywords": keywords,
-            "location": location,
-            "start": start_index
-        }
+jobs_dict = make_jobs_dictionary(json_file)
+categories_list = make_category_list(jobs_dict)
 
-        print(f"Fetching jobs starting at index {start_index}...")
-        print(f"Using User Agent: {user_agent}...")  # Print first 80 chars
+categories_number = length_of(categories_list)
 
-        try:
-            response = requests.get(base_url, params=params, headers=headers, timeout=10)
+BASE_DIR = "../../Data"
+SCRAPED_DIR = os.path.join(BASE_DIR, "Scraped")
 
-            # If the response is empty or 400+, we've hit the end or a block
-            if response.status_code != 200 or not response.text.strip():
-                print("No more jobs found or access blocked.")
-                break
+COUNTRIES = [
+    # "United States","Germany","Canada", # 1st class
+    # "Poland","Finland","Brazil",        # 2nd class
+    "Egypt",
+    # "Madagascar","Morocco"      # 3rd class
+]
 
-            soup = BeautifulSoup(response.text, 'html.parser')
 
-            # Each job is contained in a <li> tag
-            cards = soup.find_all('li')
+def main():
+    ensure_dir(SCRAPED_DIR)
 
-            if not cards:
-                break
+    for country in COUNTRIES:
+        country_dir = os.path.join(SCRAPED_DIR, country)
+        ensure_dir(country_dir)
+        print(f"working on: {country}")
 
-            for card in cards:
-                if len(job_list) >= max_jobs:
-                    break
+        for category_name in categories_list:
+            category_dir = os.path.join(country_dir, category_name)
+            ensure_dir(category_dir)
+            print(f"Scraping {category_name}:")
 
-                try:
-                    # Logic to extract data based on the LinkedIn Guest HTML structure
-                    title = card.find('h3', class_='base-search-card__title').text.strip()
-                    company = card.find('h4', class_='base-search-card__subtitle').text.strip()
-                    location_tag = card.find('span', class_='job-search-card__location').text.strip()
-                    link = card.find('a', class_='base-card__full-link')['href']
+            # Define the specific CSV file path for this category
+            csv_filename = f"{category_name}.csv"
+            csv_path = os.path.join(category_dir, csv_filename)
 
-                    job_list.append({
-                        "title": title,
-                        "company": company,
-                        "location": location_tag,
-                        "link": link
-                    })
-                except AttributeError:
-                    # Skip cards that don't match the expected structure (ads, etc)
-                    continue
+            # Ensure the file exists (optional, append_to_csv handles it)
+            ensure_file(csv_path)
 
-            # Increment by 10
-            start_index += 10
+            jobs_in_this_category = jobs_dict[category_name]
 
-            # Be polite: wait a random amount of time to avoid detection
-            time.sleep(random.uniform(2, 5))
+            for job in jobs_in_this_category:
+                print(f"  - Searching keyword: {job}")
+                results = scrape_linkedin_jobs(job, country)
 
-        except Exception as e:
-            print(f"Error occurred: {e}")
-            break
+                if results:
+                    for item in results:
+                        item['search_keyword'] = job
 
-    return job_list
+                    append_to_csv(results, csv_path)
+                    print(f"    Saved {len(results)} results for {job}")
+                else:
+                    print(f"    No results found for {job}")
+
+
 
 if __name__ == "__main__":
-    # Example usage
-    KEYWORDS = "Defense"
-    LOCATION = "Egypt"
-
-    results = scrape_linkedin_jobs(KEYWORDS, LOCATION, max_jobs=11)
-
-    print(f"\nSuccessfully scraped {len(results)} jobs:\n")
-    for i, job in enumerate(results, 1):
-        print(f"{i}. {job['title']} at {job['company']}")
-        print(f"   Loc: {job['location']}")
-        print(f"   URL: {job['link']}\n")
+    main()
