@@ -1,5 +1,5 @@
 import json
-import resolve_path
+from helpers import resolve_path
 
 
 def make_jobs_dictionary(json_file):
@@ -36,7 +36,7 @@ def print_List(categories):
 
 
 if __name__ == "__main__":
-    json_file = resolve_path.resolve_file_path("../../Data/Alternative_Names.json")
+    json_file = resolve_path("../../Data/Alternative_Names.json")
 
     jobs_dict = make_jobs_dictionary(json_file)
     categories_list = make_category_list(jobs_dict)

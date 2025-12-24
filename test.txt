@@ -1,0 +1,1170 @@
+working on: United States
+Scraping Software Engineering:
+  - Software Engineer
+  - Backend Engineer
+  - Frontend Engineer
+  - Full Stack Engineer
+  - Mobile Developer
+  - Technical Program Manager
+  - Quality Assurance Engineer
+  - Software Architect
+  - Engineering Lead
+  - Solutions Engineer
+  - API Developer
+  - Desktop Application Developer
+  - Web Developer
+  - Integration Engineer
+  - Release Manager
+  - Performance Engineer
+  - Systems Analyst
+  - Product Manager
+  - Engineering Manager
+  - Blockchain Developer
+Scraping Data Science & AI:
+  - Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - AI Research Scientist
+  - Data Engineer
+  - MLOps Engineer
+  - Computer Vision Engineer
+  - NLP Engineer
+  - Deep Learning Engineer
+  - Applied Scientist
+  - Data Analyst
+  - Generative AI Engineer
+  - AI Product Manager
+  - Bioinformatics Data Scientist
+  - AI Ethics Specialist
+  - Analytics Engineer
+Scraping Robotics & Automation:
+  - Robotics Engineer
+  - Automation Engineer
+  - Control Systems Engineer
+  - Motion Planning Engineer
+  - Robotics Perception Engineer
+  - Autonomous Systems Engineer
+  - Mechatronics Engineer
+  - SLAM Engineer
+  - Robotics Systems Architect
+  - Manipulation Engineer
+  - Human-Robot Interaction Engineer
+  - Robotic Process Automation Developer
+  - Collaborative Robotics Engineer
+  - Drone Engineer
+Scraping Cybersecurity:
+  - Security Analyst
+  - Security Engineer
+  - Penetration Tester
+  - Incident Responder
+  - Cryptographer
+  - Cyber Threat Intelligence Analyst
+  - Red Team Specialist
+  - Blue Team Specialist
+  - Malware Analyst
+  - Digital Forensics Analyst
+  - Security Auditor
+  - GRC Specialist
+  - Application Security Engineer
+  - Security Automation Engineer
+  - Cloud Security Engineer
+Scraping Bioinformatics & Computational Biology:
+  - Bioinformatics Scientist
+  - Bioinformatics Software Engineer
+  - Genomics Data Engineer
+  - Genomics Analyst
+  - Biomedical Data Scientist
+  - Clinical Informatics Specialist
+  - Systems Biology Engineer
+  - Molecular Modeling Scientist
+  - Immunoinformatics Specialist
+  - Biostatistician
+  - Computational Pathology Engineer
+  - Drug Discovery Informatics Scientist
+  - Precision Medicine Engineer
+Scraping Cloud & Network Engineering:
+  - Cloud Engineer
+  - Network Engineer
+  - Cloud Solutions Architect
+  - Infrastructure Engineer
+  - Cloud Administrator
+  - Kubernetes Administrator
+  - Network Security Engineer
+  - Cloud Migration Specialist
+  - Infrastructure Architect
+Scraping DevOps & SRE:
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Build and Release Engineer
+  - CI/CD Engineer
+  - Automation Engineer
+  - Observability Engineer
+  - Infrastructure as Code Engineer
+Scraping Enterprise IT & Systems Administration:
+  - IT Support Specialist
+  - IT Consultant
+  - IT Operations Manager
+  - Field Service Technician
+  - Virtualization Administrator
+  - IT Asset Manager
+  - Database Administrator
+  - Systems Administrator
+  - IT Infrastructure Manager
+Scraping Meme Jobs:
+  - Growth Hacker
+  - Technology Evangelist
+  - Developer Advocate (Unofficial)
+  - Chief Happiness Officer
+  - Tech Thought Leader
+  - Metaverse Architect
+  - Digital Overlord
+  - Vibe Manager
+  - Digital Experience Curator
+  - Future of Work Strategist
+  - Cloud Disruptor
+  - AI/ML Ninja
+  - Full-Stack Unicorn
+  - Data Science Rockstar
+  - Experience Architect
+  - Creative Technologist Magician
+working on: Germany
+Scraping Software Engineering:
+  - Software Engineer
+  - Backend Engineer
+  - Frontend Engineer
+  - Full Stack Engineer
+  - Mobile Developer
+  - Technical Program Manager
+  - Quality Assurance Engineer
+  - Software Architect
+  - Engineering Lead
+  - Solutions Engineer
+  - API Developer
+  - Desktop Application Developer
+  - Web Developer
+  - Integration Engineer
+  - Release Manager
+  - Performance Engineer
+  - Systems Analyst
+  - Product Manager
+  - Engineering Manager
+  - Blockchain Developer
+Scraping Data Science & AI:
+  - Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - AI Research Scientist
+  - Data Engineer
+  - MLOps Engineer
+  - Computer Vision Engineer
+  - NLP Engineer
+  - Deep Learning Engineer
+  - Applied Scientist
+  - Data Analyst
+  - Generative AI Engineer
+  - AI Product Manager
+  - Bioinformatics Data Scientist
+  - AI Ethics Specialist
+  - Analytics Engineer
+Scraping Robotics & Automation:
+  - Robotics Engineer
+  - Automation Engineer
+  - Control Systems Engineer
+  - Motion Planning Engineer
+  - Robotics Perception Engineer
+  - Autonomous Systems Engineer
+  - Mechatronics Engineer
+  - SLAM Engineer
+  - Robotics Systems Architect
+  - Manipulation Engineer
+  - Human-Robot Interaction Engineer
+  - Robotic Process Automation Developer
+  - Collaborative Robotics Engineer
+  - Drone Engineer
+Scraping Cybersecurity:
+  - Security Analyst
+  - Security Engineer
+  - Penetration Tester
+  - Incident Responder
+  - Cryptographer
+  - Cyber Threat Intelligence Analyst
+  - Red Team Specialist
+  - Blue Team Specialist
+  - Malware Analyst
+  - Digital Forensics Analyst
+  - Security Auditor
+  - GRC Specialist
+  - Application Security Engineer
+  - Security Automation Engineer
+  - Cloud Security Engineer
+Scraping Bioinformatics & Computational Biology:
+  - Bioinformatics Scientist
+  - Bioinformatics Software Engineer
+  - Genomics Data Engineer
+  - Genomics Analyst
+  - Biomedical Data Scientist
+  - Clinical Informatics Specialist
+  - Systems Biology Engineer
+  - Molecular Modeling Scientist
+  - Immunoinformatics Specialist
+  - Biostatistician
+  - Computational Pathology Engineer
+  - Drug Discovery Informatics Scientist
+  - Precision Medicine Engineer
+Scraping Cloud & Network Engineering:
+  - Cloud Engineer
+  - Network Engineer
+  - Cloud Solutions Architect
+  - Infrastructure Engineer
+  - Cloud Administrator
+  - Kubernetes Administrator
+  - Network Security Engineer
+  - Cloud Migration Specialist
+  - Infrastructure Architect
+Scraping DevOps & SRE:
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Build and Release Engineer
+  - CI/CD Engineer
+  - Automation Engineer
+  - Observability Engineer
+  - Infrastructure as Code Engineer
+Scraping Enterprise IT & Systems Administration:
+  - IT Support Specialist
+  - IT Consultant
+  - IT Operations Manager
+  - Field Service Technician
+  - Virtualization Administrator
+  - IT Asset Manager
+  - Database Administrator
+  - Systems Administrator
+  - IT Infrastructure Manager
+Scraping Meme Jobs:
+  - Growth Hacker
+  - Technology Evangelist
+  - Developer Advocate (Unofficial)
+  - Chief Happiness Officer
+  - Tech Thought Leader
+  - Metaverse Architect
+  - Digital Overlord
+  - Vibe Manager
+  - Digital Experience Curator
+  - Future of Work Strategist
+  - Cloud Disruptor
+  - AI/ML Ninja
+  - Full-Stack Unicorn
+  - Data Science Rockstar
+  - Experience Architect
+  - Creative Technologist Magician
+working on: Canada
+Scraping Software Engineering:
+  - Software Engineer
+  - Backend Engineer
+  - Frontend Engineer
+  - Full Stack Engineer
+  - Mobile Developer
+  - Technical Program Manager
+  - Quality Assurance Engineer
+  - Software Architect
+  - Engineering Lead
+  - Solutions Engineer
+  - API Developer
+  - Desktop Application Developer
+  - Web Developer
+  - Integration Engineer
+  - Release Manager
+  - Performance Engineer
+  - Systems Analyst
+  - Product Manager
+  - Engineering Manager
+  - Blockchain Developer
+Scraping Data Science & AI:
+  - Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - AI Research Scientist
+  - Data Engineer
+  - MLOps Engineer
+  - Computer Vision Engineer
+  - NLP Engineer
+  - Deep Learning Engineer
+  - Applied Scientist
+  - Data Analyst
+  - Generative AI Engineer
+  - AI Product Manager
+  - Bioinformatics Data Scientist
+  - AI Ethics Specialist
+  - Analytics Engineer
+Scraping Robotics & Automation:
+  - Robotics Engineer
+  - Automation Engineer
+  - Control Systems Engineer
+  - Motion Planning Engineer
+  - Robotics Perception Engineer
+  - Autonomous Systems Engineer
+  - Mechatronics Engineer
+  - SLAM Engineer
+  - Robotics Systems Architect
+  - Manipulation Engineer
+  - Human-Robot Interaction Engineer
+  - Robotic Process Automation Developer
+  - Collaborative Robotics Engineer
+  - Drone Engineer
+Scraping Cybersecurity:
+  - Security Analyst
+  - Security Engineer
+  - Penetration Tester
+  - Incident Responder
+  - Cryptographer
+  - Cyber Threat Intelligence Analyst
+  - Red Team Specialist
+  - Blue Team Specialist
+  - Malware Analyst
+  - Digital Forensics Analyst
+  - Security Auditor
+  - GRC Specialist
+  - Application Security Engineer
+  - Security Automation Engineer
+  - Cloud Security Engineer
+Scraping Bioinformatics & Computational Biology:
+  - Bioinformatics Scientist
+  - Bioinformatics Software Engineer
+  - Genomics Data Engineer
+  - Genomics Analyst
+  - Biomedical Data Scientist
+  - Clinical Informatics Specialist
+  - Systems Biology Engineer
+  - Molecular Modeling Scientist
+  - Immunoinformatics Specialist
+  - Biostatistician
+  - Computational Pathology Engineer
+  - Drug Discovery Informatics Scientist
+  - Precision Medicine Engineer
+Scraping Cloud & Network Engineering:
+  - Cloud Engineer
+  - Network Engineer
+  - Cloud Solutions Architect
+  - Infrastructure Engineer
+  - Cloud Administrator
+  - Kubernetes Administrator
+  - Network Security Engineer
+  - Cloud Migration Specialist
+  - Infrastructure Architect
+Scraping DevOps & SRE:
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Build and Release Engineer
+  - CI/CD Engineer
+  - Automation Engineer
+  - Observability Engineer
+  - Infrastructure as Code Engineer
+Scraping Enterprise IT & Systems Administration:
+  - IT Support Specialist
+  - IT Consultant
+  - IT Operations Manager
+  - Field Service Technician
+  - Virtualization Administrator
+  - IT Asset Manager
+  - Database Administrator
+  - Systems Administrator
+  - IT Infrastructure Manager
+Scraping Meme Jobs:
+  - Growth Hacker
+  - Technology Evangelist
+  - Developer Advocate (Unofficial)
+  - Chief Happiness Officer
+  - Tech Thought Leader
+  - Metaverse Architect
+  - Digital Overlord
+  - Vibe Manager
+  - Digital Experience Curator
+  - Future of Work Strategist
+  - Cloud Disruptor
+  - AI/ML Ninja
+  - Full-Stack Unicorn
+  - Data Science Rockstar
+  - Experience Architect
+  - Creative Technologist Magician
+working on: Poland
+Scraping Software Engineering:
+  - Software Engineer
+  - Backend Engineer
+  - Frontend Engineer
+  - Full Stack Engineer
+  - Mobile Developer
+  - Technical Program Manager
+  - Quality Assurance Engineer
+  - Software Architect
+  - Engineering Lead
+  - Solutions Engineer
+  - API Developer
+  - Desktop Application Developer
+  - Web Developer
+  - Integration Engineer
+  - Release Manager
+  - Performance Engineer
+  - Systems Analyst
+  - Product Manager
+  - Engineering Manager
+  - Blockchain Developer
+Scraping Data Science & AI:
+  - Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - AI Research Scientist
+  - Data Engineer
+  - MLOps Engineer
+  - Computer Vision Engineer
+  - NLP Engineer
+  - Deep Learning Engineer
+  - Applied Scientist
+  - Data Analyst
+  - Generative AI Engineer
+  - AI Product Manager
+  - Bioinformatics Data Scientist
+  - AI Ethics Specialist
+  - Analytics Engineer
+Scraping Robotics & Automation:
+  - Robotics Engineer
+  - Automation Engineer
+  - Control Systems Engineer
+  - Motion Planning Engineer
+  - Robotics Perception Engineer
+  - Autonomous Systems Engineer
+  - Mechatronics Engineer
+  - SLAM Engineer
+  - Robotics Systems Architect
+  - Manipulation Engineer
+  - Human-Robot Interaction Engineer
+  - Robotic Process Automation Developer
+  - Collaborative Robotics Engineer
+  - Drone Engineer
+Scraping Cybersecurity:
+  - Security Analyst
+  - Security Engineer
+  - Penetration Tester
+  - Incident Responder
+  - Cryptographer
+  - Cyber Threat Intelligence Analyst
+  - Red Team Specialist
+  - Blue Team Specialist
+  - Malware Analyst
+  - Digital Forensics Analyst
+  - Security Auditor
+  - GRC Specialist
+  - Application Security Engineer
+  - Security Automation Engineer
+  - Cloud Security Engineer
+Scraping Bioinformatics & Computational Biology:
+  - Bioinformatics Scientist
+  - Bioinformatics Software Engineer
+  - Genomics Data Engineer
+  - Genomics Analyst
+  - Biomedical Data Scientist
+  - Clinical Informatics Specialist
+  - Systems Biology Engineer
+  - Molecular Modeling Scientist
+  - Immunoinformatics Specialist
+  - Biostatistician
+  - Computational Pathology Engineer
+  - Drug Discovery Informatics Scientist
+  - Precision Medicine Engineer
+Scraping Cloud & Network Engineering:
+  - Cloud Engineer
+  - Network Engineer
+  - Cloud Solutions Architect
+  - Infrastructure Engineer
+  - Cloud Administrator
+  - Kubernetes Administrator
+  - Network Security Engineer
+  - Cloud Migration Specialist
+  - Infrastructure Architect
+Scraping DevOps & SRE:
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Build and Release Engineer
+  - CI/CD Engineer
+  - Automation Engineer
+  - Observability Engineer
+  - Infrastructure as Code Engineer
+Scraping Enterprise IT & Systems Administration:
+  - IT Support Specialist
+  - IT Consultant
+  - IT Operations Manager
+  - Field Service Technician
+  - Virtualization Administrator
+  - IT Asset Manager
+  - Database Administrator
+  - Systems Administrator
+  - IT Infrastructure Manager
+Scraping Meme Jobs:
+  - Growth Hacker
+  - Technology Evangelist
+  - Developer Advocate (Unofficial)
+  - Chief Happiness Officer
+  - Tech Thought Leader
+  - Metaverse Architect
+  - Digital Overlord
+  - Vibe Manager
+  - Digital Experience Curator
+  - Future of Work Strategist
+  - Cloud Disruptor
+  - AI/ML Ninja
+  - Full-Stack Unicorn
+  - Data Science Rockstar
+  - Experience Architect
+  - Creative Technologist Magician
+working on: Finland
+Scraping Software Engineering:
+  - Software Engineer
+  - Backend Engineer
+  - Frontend Engineer
+  - Full Stack Engineer
+  - Mobile Developer
+  - Technical Program Manager
+  - Quality Assurance Engineer
+  - Software Architect
+  - Engineering Lead
+  - Solutions Engineer
+  - API Developer
+  - Desktop Application Developer
+  - Web Developer
+  - Integration Engineer
+  - Release Manager
+  - Performance Engineer
+  - Systems Analyst
+  - Product Manager
+  - Engineering Manager
+  - Blockchain Developer
+Scraping Data Science & AI:
+  - Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - AI Research Scientist
+  - Data Engineer
+  - MLOps Engineer
+  - Computer Vision Engineer
+  - NLP Engineer
+  - Deep Learning Engineer
+  - Applied Scientist
+  - Data Analyst
+  - Generative AI Engineer
+  - AI Product Manager
+  - Bioinformatics Data Scientist
+  - AI Ethics Specialist
+  - Analytics Engineer
+Scraping Robotics & Automation:
+  - Robotics Engineer
+  - Automation Engineer
+  - Control Systems Engineer
+  - Motion Planning Engineer
+  - Robotics Perception Engineer
+  - Autonomous Systems Engineer
+  - Mechatronics Engineer
+  - SLAM Engineer
+  - Robotics Systems Architect
+  - Manipulation Engineer
+  - Human-Robot Interaction Engineer
+  - Robotic Process Automation Developer
+  - Collaborative Robotics Engineer
+  - Drone Engineer
+Scraping Cybersecurity:
+  - Security Analyst
+  - Security Engineer
+  - Penetration Tester
+  - Incident Responder
+  - Cryptographer
+  - Cyber Threat Intelligence Analyst
+  - Red Team Specialist
+  - Blue Team Specialist
+  - Malware Analyst
+  - Digital Forensics Analyst
+  - Security Auditor
+  - GRC Specialist
+  - Application Security Engineer
+  - Security Automation Engineer
+  - Cloud Security Engineer
+Scraping Bioinformatics & Computational Biology:
+  - Bioinformatics Scientist
+  - Bioinformatics Software Engineer
+  - Genomics Data Engineer
+  - Genomics Analyst
+  - Biomedical Data Scientist
+  - Clinical Informatics Specialist
+  - Systems Biology Engineer
+  - Molecular Modeling Scientist
+  - Immunoinformatics Specialist
+  - Biostatistician
+  - Computational Pathology Engineer
+  - Drug Discovery Informatics Scientist
+  - Precision Medicine Engineer
+Scraping Cloud & Network Engineering:
+  - Cloud Engineer
+  - Network Engineer
+  - Cloud Solutions Architect
+  - Infrastructure Engineer
+  - Cloud Administrator
+  - Kubernetes Administrator
+  - Network Security Engineer
+  - Cloud Migration Specialist
+  - Infrastructure Architect
+Scraping DevOps & SRE:
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Build and Release Engineer
+  - CI/CD Engineer
+  - Automation Engineer
+  - Observability Engineer
+  - Infrastructure as Code Engineer
+Scraping Enterprise IT & Systems Administration:
+  - IT Support Specialist
+  - IT Consultant
+  - IT Operations Manager
+  - Field Service Technician
+  - Virtualization Administrator
+  - IT Asset Manager
+  - Database Administrator
+  - Systems Administrator
+  - IT Infrastructure Manager
+Scraping Meme Jobs:
+  - Growth Hacker
+  - Technology Evangelist
+  - Developer Advocate (Unofficial)
+  - Chief Happiness Officer
+  - Tech Thought Leader
+  - Metaverse Architect
+  - Digital Overlord
+  - Vibe Manager
+  - Digital Experience Curator
+  - Future of Work Strategist
+  - Cloud Disruptor
+  - AI/ML Ninja
+  - Full-Stack Unicorn
+  - Data Science Rockstar
+  - Experience Architect
+  - Creative Technologist Magician
+working on: Brazil
+Scraping Software Engineering:
+  - Software Engineer
+  - Backend Engineer
+  - Frontend Engineer
+  - Full Stack Engineer
+  - Mobile Developer
+  - Technical Program Manager
+  - Quality Assurance Engineer
+  - Software Architect
+  - Engineering Lead
+  - Solutions Engineer
+  - API Developer
+  - Desktop Application Developer
+  - Web Developer
+  - Integration Engineer
+  - Release Manager
+  - Performance Engineer
+  - Systems Analyst
+  - Product Manager
+  - Engineering Manager
+  - Blockchain Developer
+Scraping Data Science & AI:
+  - Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - AI Research Scientist
+  - Data Engineer
+  - MLOps Engineer
+  - Computer Vision Engineer
+  - NLP Engineer
+  - Deep Learning Engineer
+  - Applied Scientist
+  - Data Analyst
+  - Generative AI Engineer
+  - AI Product Manager
+  - Bioinformatics Data Scientist
+  - AI Ethics Specialist
+  - Analytics Engineer
+Scraping Robotics & Automation:
+  - Robotics Engineer
+  - Automation Engineer
+  - Control Systems Engineer
+  - Motion Planning Engineer
+  - Robotics Perception Engineer
+  - Autonomous Systems Engineer
+  - Mechatronics Engineer
+  - SLAM Engineer
+  - Robotics Systems Architect
+  - Manipulation Engineer
+  - Human-Robot Interaction Engineer
+  - Robotic Process Automation Developer
+  - Collaborative Robotics Engineer
+  - Drone Engineer
+Scraping Cybersecurity:
+  - Security Analyst
+  - Security Engineer
+  - Penetration Tester
+  - Incident Responder
+  - Cryptographer
+  - Cyber Threat Intelligence Analyst
+  - Red Team Specialist
+  - Blue Team Specialist
+  - Malware Analyst
+  - Digital Forensics Analyst
+  - Security Auditor
+  - GRC Specialist
+  - Application Security Engineer
+  - Security Automation Engineer
+  - Cloud Security Engineer
+Scraping Bioinformatics & Computational Biology:
+  - Bioinformatics Scientist
+  - Bioinformatics Software Engineer
+  - Genomics Data Engineer
+  - Genomics Analyst
+  - Biomedical Data Scientist
+  - Clinical Informatics Specialist
+  - Systems Biology Engineer
+  - Molecular Modeling Scientist
+  - Immunoinformatics Specialist
+  - Biostatistician
+  - Computational Pathology Engineer
+  - Drug Discovery Informatics Scientist
+  - Precision Medicine Engineer
+Scraping Cloud & Network Engineering:
+  - Cloud Engineer
+  - Network Engineer
+  - Cloud Solutions Architect
+  - Infrastructure Engineer
+  - Cloud Administrator
+  - Kubernetes Administrator
+  - Network Security Engineer
+  - Cloud Migration Specialist
+  - Infrastructure Architect
+Scraping DevOps & SRE:
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Build and Release Engineer
+  - CI/CD Engineer
+  - Automation Engineer
+  - Observability Engineer
+  - Infrastructure as Code Engineer
+Scraping Enterprise IT & Systems Administration:
+  - IT Support Specialist
+  - IT Consultant
+  - IT Operations Manager
+  - Field Service Technician
+  - Virtualization Administrator
+  - IT Asset Manager
+  - Database Administrator
+  - Systems Administrator
+  - IT Infrastructure Manager
+Scraping Meme Jobs:
+  - Growth Hacker
+  - Technology Evangelist
+  - Developer Advocate (Unofficial)
+  - Chief Happiness Officer
+  - Tech Thought Leader
+  - Metaverse Architect
+  - Digital Overlord
+  - Vibe Manager
+  - Digital Experience Curator
+  - Future of Work Strategist
+  - Cloud Disruptor
+  - AI/ML Ninja
+  - Full-Stack Unicorn
+  - Data Science Rockstar
+  - Experience Architect
+  - Creative Technologist Magician
+working on: Egypt
+Scraping Software Engineering:
+  - Software Engineer
+  - Backend Engineer
+  - Frontend Engineer
+  - Full Stack Engineer
+  - Mobile Developer
+  - Technical Program Manager
+  - Quality Assurance Engineer
+  - Software Architect
+  - Engineering Lead
+  - Solutions Engineer
+  - API Developer
+  - Desktop Application Developer
+  - Web Developer
+  - Integration Engineer
+  - Release Manager
+  - Performance Engineer
+  - Systems Analyst
+  - Product Manager
+  - Engineering Manager
+  - Blockchain Developer
+Scraping Data Science & AI:
+  - Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - AI Research Scientist
+  - Data Engineer
+  - MLOps Engineer
+  - Computer Vision Engineer
+  - NLP Engineer
+  - Deep Learning Engineer
+  - Applied Scientist
+  - Data Analyst
+  - Generative AI Engineer
+  - AI Product Manager
+  - Bioinformatics Data Scientist
+  - AI Ethics Specialist
+  - Analytics Engineer
+Scraping Robotics & Automation:
+  - Robotics Engineer
+  - Automation Engineer
+  - Control Systems Engineer
+  - Motion Planning Engineer
+  - Robotics Perception Engineer
+  - Autonomous Systems Engineer
+  - Mechatronics Engineer
+  - SLAM Engineer
+  - Robotics Systems Architect
+  - Manipulation Engineer
+  - Human-Robot Interaction Engineer
+  - Robotic Process Automation Developer
+  - Collaborative Robotics Engineer
+  - Drone Engineer
+Scraping Cybersecurity:
+  - Security Analyst
+  - Security Engineer
+  - Penetration Tester
+  - Incident Responder
+  - Cryptographer
+  - Cyber Threat Intelligence Analyst
+  - Red Team Specialist
+  - Blue Team Specialist
+  - Malware Analyst
+  - Digital Forensics Analyst
+  - Security Auditor
+  - GRC Specialist
+  - Application Security Engineer
+  - Security Automation Engineer
+  - Cloud Security Engineer
+Scraping Bioinformatics & Computational Biology:
+  - Bioinformatics Scientist
+  - Bioinformatics Software Engineer
+  - Genomics Data Engineer
+  - Genomics Analyst
+  - Biomedical Data Scientist
+  - Clinical Informatics Specialist
+  - Systems Biology Engineer
+  - Molecular Modeling Scientist
+  - Immunoinformatics Specialist
+  - Biostatistician
+  - Computational Pathology Engineer
+  - Drug Discovery Informatics Scientist
+  - Precision Medicine Engineer
+Scraping Cloud & Network Engineering:
+  - Cloud Engineer
+  - Network Engineer
+  - Cloud Solutions Architect
+  - Infrastructure Engineer
+  - Cloud Administrator
+  - Kubernetes Administrator
+  - Network Security Engineer
+  - Cloud Migration Specialist
+  - Infrastructure Architect
+Scraping DevOps & SRE:
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Build and Release Engineer
+  - CI/CD Engineer
+  - Automation Engineer
+  - Observability Engineer
+  - Infrastructure as Code Engineer
+Scraping Enterprise IT & Systems Administration:
+  - IT Support Specialist
+  - IT Consultant
+  - IT Operations Manager
+  - Field Service Technician
+  - Virtualization Administrator
+  - IT Asset Manager
+  - Database Administrator
+  - Systems Administrator
+  - IT Infrastructure Manager
+Scraping Meme Jobs:
+  - Growth Hacker
+  - Technology Evangelist
+  - Developer Advocate (Unofficial)
+  - Chief Happiness Officer
+  - Tech Thought Leader
+  - Metaverse Architect
+  - Digital Overlord
+  - Vibe Manager
+  - Digital Experience Curator
+  - Future of Work Strategist
+  - Cloud Disruptor
+  - AI/ML Ninja
+  - Full-Stack Unicorn
+  - Data Science Rockstar
+  - Experience Architect
+  - Creative Technologist Magician
+working on: Madagascar
+Scraping Software Engineering:
+  - Software Engineer
+  - Backend Engineer
+  - Frontend Engineer
+  - Full Stack Engineer
+  - Mobile Developer
+  - Technical Program Manager
+  - Quality Assurance Engineer
+  - Software Architect
+  - Engineering Lead
+  - Solutions Engineer
+  - API Developer
+  - Desktop Application Developer
+  - Web Developer
+  - Integration Engineer
+  - Release Manager
+  - Performance Engineer
+  - Systems Analyst
+  - Product Manager
+  - Engineering Manager
+  - Blockchain Developer
+Scraping Data Science & AI:
+  - Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - AI Research Scientist
+  - Data Engineer
+  - MLOps Engineer
+  - Computer Vision Engineer
+  - NLP Engineer
+  - Deep Learning Engineer
+  - Applied Scientist
+  - Data Analyst
+  - Generative AI Engineer
+  - AI Product Manager
+  - Bioinformatics Data Scientist
+  - AI Ethics Specialist
+  - Analytics Engineer
+Scraping Robotics & Automation:
+  - Robotics Engineer
+  - Automation Engineer
+  - Control Systems Engineer
+  - Motion Planning Engineer
+  - Robotics Perception Engineer
+  - Autonomous Systems Engineer
+  - Mechatronics Engineer
+  - SLAM Engineer
+  - Robotics Systems Architect
+  - Manipulation Engineer
+  - Human-Robot Interaction Engineer
+  - Robotic Process Automation Developer
+  - Collaborative Robotics Engineer
+  - Drone Engineer
+Scraping Cybersecurity:
+  - Security Analyst
+  - Security Engineer
+  - Penetration Tester
+  - Incident Responder
+  - Cryptographer
+  - Cyber Threat Intelligence Analyst
+  - Red Team Specialist
+  - Blue Team Specialist
+  - Malware Analyst
+  - Digital Forensics Analyst
+  - Security Auditor
+  - GRC Specialist
+  - Application Security Engineer
+  - Security Automation Engineer
+  - Cloud Security Engineer
+Scraping Bioinformatics & Computational Biology:
+  - Bioinformatics Scientist
+  - Bioinformatics Software Engineer
+  - Genomics Data Engineer
+  - Genomics Analyst
+  - Biomedical Data Scientist
+  - Clinical Informatics Specialist
+  - Systems Biology Engineer
+  - Molecular Modeling Scientist
+  - Immunoinformatics Specialist
+  - Biostatistician
+  - Computational Pathology Engineer
+  - Drug Discovery Informatics Scientist
+  - Precision Medicine Engineer
+Scraping Cloud & Network Engineering:
+  - Cloud Engineer
+  - Network Engineer
+  - Cloud Solutions Architect
+  - Infrastructure Engineer
+  - Cloud Administrator
+  - Kubernetes Administrator
+  - Network Security Engineer
+  - Cloud Migration Specialist
+  - Infrastructure Architect
+Scraping DevOps & SRE:
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Build and Release Engineer
+  - CI/CD Engineer
+  - Automation Engineer
+  - Observability Engineer
+  - Infrastructure as Code Engineer
+Scraping Enterprise IT & Systems Administration:
+  - IT Support Specialist
+  - IT Consultant
+  - IT Operations Manager
+  - Field Service Technician
+  - Virtualization Administrator
+  - IT Asset Manager
+  - Database Administrator
+  - Systems Administrator
+  - IT Infrastructure Manager
+Scraping Meme Jobs:
+  - Growth Hacker
+  - Technology Evangelist
+  - Developer Advocate (Unofficial)
+  - Chief Happiness Officer
+  - Tech Thought Leader
+  - Metaverse Architect
+  - Digital Overlord
+  - Vibe Manager
+  - Digital Experience Curator
+  - Future of Work Strategist
+  - Cloud Disruptor
+  - AI/ML Ninja
+  - Full-Stack Unicorn
+  - Data Science Rockstar
+  - Experience Architect
+  - Creative Technologist Magician
+working on: Morocco
+Scraping Software Engineering:
+  - Software Engineer
+  - Backend Engineer
+  - Frontend Engineer
+  - Full Stack Engineer
+  - Mobile Developer
+  - Technical Program Manager
+  - Quality Assurance Engineer
+  - Software Architect
+  - Engineering Lead
+  - Solutions Engineer
+  - API Developer
+  - Desktop Application Developer
+  - Web Developer
+  - Integration Engineer
+  - Release Manager
+  - Performance Engineer
+  - Systems Analyst
+  - Product Manager
+  - Engineering Manager
+  - Blockchain Developer
+Scraping Data Science & AI:
+  - Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - AI Research Scientist
+  - Data Engineer
+  - MLOps Engineer
+  - Computer Vision Engineer
+  - NLP Engineer
+  - Deep Learning Engineer
+  - Applied Scientist
+  - Data Analyst
+  - Generative AI Engineer
+  - AI Product Manager
+  - Bioinformatics Data Scientist
+  - AI Ethics Specialist
+  - Analytics Engineer
+Scraping Robotics & Automation:
+  - Robotics Engineer
+  - Automation Engineer
+  - Control Systems Engineer
+  - Motion Planning Engineer
+  - Robotics Perception Engineer
+  - Autonomous Systems Engineer
+  - Mechatronics Engineer
+  - SLAM Engineer
+  - Robotics Systems Architect
+  - Manipulation Engineer
+  - Human-Robot Interaction Engineer
+  - Robotic Process Automation Developer
+  - Collaborative Robotics Engineer
+  - Drone Engineer
+Scraping Cybersecurity:
+  - Security Analyst
+  - Security Engineer
+  - Penetration Tester
+  - Incident Responder
+  - Cryptographer
+  - Cyber Threat Intelligence Analyst
+  - Red Team Specialist
+  - Blue Team Specialist
+  - Malware Analyst
+  - Digital Forensics Analyst
+  - Security Auditor
+  - GRC Specialist
+  - Application Security Engineer
+  - Security Automation Engineer
+  - Cloud Security Engineer
+Scraping Bioinformatics & Computational Biology:
+  - Bioinformatics Scientist
+  - Bioinformatics Software Engineer
+  - Genomics Data Engineer
+  - Genomics Analyst
+  - Biomedical Data Scientist
+  - Clinical Informatics Specialist
+  - Systems Biology Engineer
+  - Molecular Modeling Scientist
+  - Immunoinformatics Specialist
+  - Biostatistician
+  - Computational Pathology Engineer
+  - Drug Discovery Informatics Scientist
+  - Precision Medicine Engineer
+Scraping Cloud & Network Engineering:
+  - Cloud Engineer
+  - Network Engineer
+  - Cloud Solutions Architect
+  - Infrastructure Engineer
+  - Cloud Administrator
+  - Kubernetes Administrator
+  - Network Security Engineer
+  - Cloud Migration Specialist
+  - Infrastructure Architect
+Scraping DevOps & SRE:
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Build and Release Engineer
+  - CI/CD Engineer
+  - Automation Engineer
+  - Observability Engineer
+  - Infrastructure as Code Engineer
+Scraping Enterprise IT & Systems Administration:
+  - IT Support Specialist
+  - IT Consultant
+  - IT Operations Manager
+  - Field Service Technician
+  - Virtualization Administrator
+  - IT Asset Manager
+  - Database Administrator
+  - Systems Administrator
+  - IT Infrastructure Manager
+Scraping Meme Jobs:
+  - Growth Hacker
+  - Technology Evangelist
+  - Developer Advocate (Unofficial)
+  - Chief Happiness Officer
+  - Tech Thought Leader
+  - Metaverse Architect
+  - Digital Overlord
+  - Vibe Manager
+  - Digital Experience Curator
+  - Future of Work Strategist
+  - Cloud Disruptor
+  - AI/ML Ninja
+  - Full-Stack Unicorn
+  - Data Science Rockstar
+  - Experience Architect
+  - Creative Technologist Magician
