@@ -1,12 +1,12 @@
 # Nix Files
 *.nix linguist-detectable=true
 
-# YAML Configuration
-*.yml linguist-detectable=true
-*.yaml linguist-detectable=true
+# # YAML Configuration
+# *.yml linguist-detectable=true
+# *.yaml linguist-detectable=true
 
-# JSON
-*.json linguist-detectable=true
+# # JSON
+# *.json linguist-detectable=true
 
 # Markdown Documentation
 *.md merge=union
@@ -26,6 +26,6 @@
 # Python Scripts
 *.py linguist-detectable=true
 
-# CSV Data Files
-*.csv linguist-detectable=true
-*.csv linguist-language=CSV
+# # CSV Data Files
+# *.csv linguist-detectable=true
+# *.csv linguist-language=CSV

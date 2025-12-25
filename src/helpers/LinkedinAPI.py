@@ -90,18 +90,3 @@ def scrape_linkedin_jobs(keywords, location, max_jobs=0):
             break
 
     return job_list
-
-
-
-if __name__ == "__main__":
-    # Example usage
-    KEYWORDS = "Software Engineer"
-    LOCATION = "Egypt"
-
-    results = scrape_linkedin_jobs(KEYWORDS, LOCATION, max_jobs=53)
-
-    print(f"\nSuccessfully scraped {len(results)} jobs:\n")
-    for i, job in enumerate(results, 1):
-        print(f"{i}. {job['title']} at {job['company']}")
-        print(f"   Loc: {job['location']}")
-        print(f"   URL: {job['link']}\n")
