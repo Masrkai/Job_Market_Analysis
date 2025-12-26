@@ -8,3 +8,11 @@ requests
 seaborn
 selenium
 webdriver-manager
+
+
+
+
+
+aiohttp
+random
+asyncio
