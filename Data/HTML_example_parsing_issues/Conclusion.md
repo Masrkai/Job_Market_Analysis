@@ -1,4 +1,4 @@
-The elements in source pages of each linkedin jon listing varies massively specially when I saw Egypt's listings and US listings.
+The elements in source pages of each linkedin jon listing varies massively.
 
 basically we are looking for the following elements
 
@@ -32,6 +32,4 @@ and lastly something that always exists is
         </div>
 ```
 
-not here I kept everything without thew data inside the class since it's TOO long, if you want to see the output yourself please check [Ex2](Ex2_imp.html)
-
-as it basically has all 3 the full file is name without the `_imp` convention
+not here I kept everything without thew data inside the class since it's TOO long, if you want to see the output yourself please check [Ex](Ex_of_imp_elements.html)
