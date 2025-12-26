@@ -27,11 +27,11 @@ BASE_DIR = "../../Data"
 SCRAPED_DIR = os.path.join(BASE_DIR, "Scraped")
 
 COUNTRIES = [
-    # "United States","Germany","Canada", # 1st class
-    # "Poland","Finland","Brazil",        # 2nd class
-    # "Egypt",
-    "Madagascar",
-    # "Morocco"      # 3rd class
+    "United States","Germany","Canada", # 1st class
+    "Poland","Finland","Brazil",        # 2nd class
+    "Egypt",
+    # "Madagascar",
+    "Morocco"      # 3rd class
 ]
 
 
