@@ -1,22 +1,16 @@
 import os
 
 from helpers.resolve_path import resolve_file_path
-# from helpers.LinkedinAPI import scrape_linkedin_jobs
-from helpers.LinkedinAPI2 import scrape_linkedin_jobs 
-from helpers.makefolder import ensure_dir, ensure_file, save_to_csv, append_to_csv
-# from helpers.normalize import normalize_linkedin_url
-from helpers.checkpointing import load_checkpoint, save_checkpoint
+from helpers.LinkedinAPI2 import scrape_linkedin_jobs
+from helpers.makefolder import ensure_dir, ensure_file, append_to_csv
 
 from helpers.data_fetcher_from_Json_DS import (
     length_of,
-    print_List,
     make_category_list,
     make_jobs_dictionary,
-    make_own_category_jobs_list,
 )
 
-
-json_file = resolve_file_path("../Data/Alternative_Names.json")
+json_file = resolve_file_path("../Data/CS_Job_Titles_Categorized.json")
 
 jobs_dict = make_jobs_dictionary(json_file)
 categories_list = make_category_list(jobs_dict)
@@ -29,9 +23,7 @@ SCRAPED_DIR = os.path.join(BASE_DIR, "Scraped")
 COUNTRIES = [
     "United States","Germany","Canada", # 1st class
     "Poland","Finland","Brazil",        # 2nd class
-    "Egypt",
-    # "Madagascar",
-    "Morocco"      # 3rd class
+    "Egypt","Madagascar","Morocco"      # 3rd class
 ]
 
 
