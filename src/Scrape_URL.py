@@ -1,19 +1,18 @@
 import csv
 import json
 import requests
-from pathlib import Path
-from bs4 import BeautifulSoup
+from pathlib   import Path
+from itertools import islice
+from bs4       import BeautifulSoup
 
 from helpers.UserAgent import generate_advanced_ua
-from URL.description import extract_formatted_description
+
 from URL.salary import extract_salary_safe
-
-from itertools import islice
-
-
+from URL.description import extract_formatted_description
+from URL.extract_criteria import extract_job_criteria
 
 
-def proof_of_concept():
+def main():
     csv_path = Path("Data/Scraped/United States/Cloud & Network Engineering/Cloud & Network Engineering.csv")
     json_path = csv_path.with_suffix('.json')
 
@@ -38,8 +37,8 @@ def proof_of_concept():
 
         # 3. Apply Extraction Logic
         # A. JSON-LD
-        json_ld_tag = soup.find("script", {"type": "application/ld+json"})
-        json_ld_data = json.loads(json_ld_tag.string) if json_ld_tag else None
+        # json_ld_tag = soup.find("script", {"type": "application/ld+json"})
+        # json_ld_data = json.loads(json_ld_tag.string) if json_ld_tag else None
 
         # B. Salary - extract_salary_safe already returns a string
         salary_text = extract_salary_safe(soup)
@@ -47,13 +46,16 @@ def proof_of_concept():
         # C. Detailed Description (Using your logic)
         description_text = extract_formatted_description(soup)
 
+        criteria = extract_job_criteria(soup)
+
         # 4. Compile and Save
         enriched_entry = {
             **job_data, # Keep original CSV fields
             "enriched_details": {
-                "json_ld": json_ld_data,
+                # "json_ld": json_ld_data,
                 "salary": salary_text,
-                "description_clean": description_text
+                "description_clean": description_text,
+                "criteria": criteria,
             }
         }
 
@@ -71,4 +73,4 @@ def proof_of_concept():
         print(f"❌ Failed: {e}")
 
 if __name__ == "__main__":
-    proof_of_concept()
+    main()
